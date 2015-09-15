@@ -1,0 +1,354 @@
+[
+    {
+        "Company": "Activision Blizzard",
+        "Value": "1"
+    },
+    {
+        "Company": "CalAmp",
+        "Value": "1"
+    },
+    {
+        "Company": "Cognizant Technology Solutions",
+        "Value": "1"
+    },
+    {
+        "Company": "King Digital Entertainment plc",
+        "Value": "1"
+    },
+    {
+        "Company": "KongZhong",
+        "Value": "1"
+    },
+    {
+        "Company": "Momo",
+        "Value": "1"
+    },
+    {
+        "Company": "Motorola Solutions",
+        "Value": "1"
+    },
+    {
+        "Company": "NQ Mobile",
+        "Value": "1"
+    },
+    {
+        "Company": "Qihoo 360 Technology ",
+        "Value": "1"
+    },
+    {
+        "Company": "Sina",
+        "Value": "1"
+    },
+    {
+        "Company": "SunPower",
+        "Value": "1"
+    },
+    {
+        "Company": "58.com",
+        "Value": "1"
+    },
+    {
+        "Company": "Baidu",
+        "Value": "0.769230769"
+    },
+    {
+        "Company": "GoDaddy",
+        "Value": "0.6067825"
+    },
+    {
+        "Company": "Weibo",
+        "Value": "0.596774143"
+    },
+    {
+        "Company": "Adobe",
+        "Value": "0.570947556"
+    },
+    {
+        "Company": "Apigee",
+        "Value": "0.545455"
+    },
+    {
+        "Company": "Yahoo!",
+        "Value": "0.525230328"
+    },
+    {
+        "Company": "Fitbit",
+        "Value": "0.516129"
+    },
+    {
+        "Company": "Palo Alto Networks",
+        "Value": "0.5142858"
+    },
+    {
+        "Company": "Automatic Data Processing",
+        "Value": "0.5"
+    },
+    {
+        "Company": "Rocket Fuel",
+        "Value": "0.5"
+    },
+    {
+        "Company": "NVIDIA",
+        "Value": "0.5"
+    },
+    {
+        "Company": "Taiwan Semiconductor Manufacturing Company ",
+        "Value": "0.5"
+    },
+    {
+        "Company": "WPP plc",
+        "Value": "0.5"
+    },
+    {
+        "Company": "Oracle",
+        "Value": "0.4725038"
+    },
+    {
+        "Company": "Apple",
+        "Value": "0.454530945"
+    },
+    {
+        "Company": "Facebook",
+        "Value": "0.441935746"
+    },
+    {
+        "Company": "Twitter",
+        "Value": "0.439528381"
+    },
+    {
+        "Company": "Microsoft",
+        "Value": "0.430059521"
+    },
+    {
+        "Company": "Microsoft",
+        "Value": "0.427009454"
+    },
+    {
+        "Company": "Cisco Systems",
+        "Value": "0.390118977"
+    },
+    {
+        "Company": "Hewlett-Packard Company",
+        "Value": "0.377896588"
+    },
+    {
+        "Company": "Micron Technology",
+        "Value": "0.374657167"
+    },
+    {
+        "Company": "SAP SE",
+        "Value": "0.3387095"
+    },
+    {
+        "Company": "Intel",
+        "Value": "0.334735143"
+    },
+    {
+        "Company": "Splunk",
+        "Value": "0.3333335"
+    },
+    {
+        "Company": "Cogent Communications Holdings",
+        "Value": "0.333333333"
+    },
+    {
+        "Company": "Kyocera",
+        "Value": "0.333333"
+    },
+    {
+        "Company": "Intuit",
+        "Value": "0.331085"
+    },
+    {
+        "Company": "Electronic Arts",
+        "Value": "0.3277058"
+    },
+    {
+        "Company": "International Business Machines",
+        "Value": "0.29752914"
+    },
+    {
+        "Company": "Salesforce.com",
+        "Value": "0.279569833"
+    },
+    {
+        "Company": "Symantec",
+        "Value": "0.2666666"
+    },
+    {
+        "Company": "The Rubicon Project",
+        "Value": "0.25"
+    },
+    {
+        "Company": "TripAdvisor",
+        "Value": "0.25"
+    },
+    {
+        "Company": "LinkedIn",
+        "Value": "0.240400955"
+    },
+    {
+        "Company": "Infoblox",
+        "Value": "0.238095333"
+    },
+    {
+        "Company": "QUALCOMMorporated",
+        "Value": "0.232812588"
+    },
+    {
+        "Company": "FireEye",
+        "Value": "0.1666665"
+    },
+    {
+        "Company": "First Solar",
+        "Value": "0.1330645"
+    },
+    {
+        "Company": "EMC",
+        "Value": "0.114285714"
+    },
+    {
+        "Company": "InvenSense",
+        "Value": "0.090909"
+    },
+    {
+        "Company": "Illinois Tool Works",
+        "Value": "0.090909"
+    },
+    {
+        "Company": "NXP Semiconductors N.V.",
+        "Value": "0.090909"
+    },
+    {
+        "Company": "TubeMogul",
+        "Value": "0.090909"
+    },
+    {
+        "Company": "Box",
+        "Value": "0.087301667"
+    },
+    {
+        "Company": "Zynga",
+        "Value": "0.08333325"
+    },
+    {
+        "Company": "SanDisk",
+        "Value": "0.055555667"
+    },
+    {
+        "Company": "United Rentals",
+        "Value": "0.047619"
+    },
+    {
+        "Company": "3D Systems",
+        "Value": "0.0454545"
+    },
+    {
+        "Company": "Skyworks Solutions",
+        "Value": "0.0363636"
+    },
+    {
+        "Company": "Avago Technologies",
+        "Value": "0.0306818"
+    },
+    {
+        "Company": "Aercap Holdings N.V.",
+        "Value": "0.02439"
+    },
+    {
+        "Company": "Groupon",
+        "Value": "0.02272725"
+    },
+    {
+        "Company": "Altera",
+        "Value": "0.020833333"
+    },
+    {
+        "Company": "Texas Instrumentsorporated",
+        "Value": "0.020833333"
+    },
+    {
+        "Company": "Acxiom",
+        "Value": "0"
+    },
+    {
+        "Company": "Broadcom",
+        "Value": "0"
+    },
+    {
+        "Company": "CA",
+        "Value": "0"
+    },
+    {
+        "Company": "Cirrus Logic",
+        "Value": "0"
+    },
+    {
+        "Company": "Citrix Systems",
+        "Value": "0"
+    },
+    {
+        "Company": "CyberArk Software ",
+        "Value": "0"
+    },
+    {
+        "Company": "Ingram Micro",
+        "Value": "0"
+    },
+    {
+        "Company": "Imperva",
+        "Value": "0"
+    },
+    {
+        "Company": "Jabil Circuit",
+        "Value": "0"
+    },
+    {
+        "Company": "Juniper Networks",
+        "Value": "0"
+    },
+    {
+        "Company": "Qualys",
+        "Value": "0"
+    },
+    {
+        "Company": "Qorvo",
+        "Value": "0"
+    },
+    {
+        "Company": "Sohu.com",
+        "Value": "0"
+    },
+    {
+        "Company": "STMicroelectronics N.V.",
+        "Value": "0"
+    },
+    {
+        "Company": "Unisys",
+        "Value": "0"
+    },
+    {
+        "Company": "VASCO Data Security International",
+        "Value": "0"
+    },
+    {
+        "Company": "Youku Tudou",
+        "Value": "0"
+    },
+    {
+        "Company": "EMC",
+        "Value": "0.114285714"
+    },
+    {
+        "Company": "CA",
+        "Value": "0"
+    },
+    {
+        "Company": "EMC",
+        "Value": "0.114285714"
+    },
+    {
+        "Company": "CA",
+        "Value": "0"
+    }
+]

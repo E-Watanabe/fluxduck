@@ -1,0 +1,87 @@
+doctype html
+html
+  head
+    title FluxDuck
+    link(rel='stylesheet', href='/stylesheets/fluxduck.css')
+    link(href='https://fonts.googleapis.com/css?family=Oswald', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Fjalla+One', rel='stylesheet', type='text/css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js')
+    script(src='../javascripts/fluxduck.js')
+  body
+    header
+      h1#title(style="font-size: 45px; margin: 0; padding: 0; line-height: 60px;") FluxDuck
+      h3#sub Application Optimization
+
+    form(id="myForm")
+      //input(type='hidden', name='_method', value='PUT')
+      input#bar(type='text', name='search', placeholder='search')
+      //a(href='')
+      div#glass(style='width: 30px; height: 30px; background-image: url("../images/search.png"); background-size: 100% 100%;' onclick="sendXMLhttprequest(this)")
+
+    br
+    br
+    hr
+
+
+    ol
+      li#li1
+        span
+          p.flex
+          //h1.list Microsoft
+          p
+          h4#1.hide [Job posting here]
+      li#li2
+        span
+          p.flex
+          //h1.list Indeed
+          p
+          h4#2.hide adfdfasdf
+      li#li3
+        span
+          p.flex
+          //h1.list DuckDuckGo
+          p
+          h4#3.hide adfadfa
+      li#li4
+        span
+          p.flex
+          //h1.list Wolfram
+          p
+          h4#4.hide adfdfd
+      li#li5
+        span
+          p.flex
+          //h1.list Apple
+          p
+          h4#5.hide adfdfasdf
+      li#li6
+        span
+          p.flex
+          //h1.list Qualcomm
+          p
+          h4#6.hide adfadfa
+      li#li7
+        span
+          p.flex
+          //h1.list adfasdfdas
+          p
+          h4#7.hide adfadfa
+      li#li8
+        span
+          p.flex
+          //h1.list adfsdfasdf
+          p
+          h4#8.hide adfdfd
+      li#li9
+        span
+          p.flex
+          //h1.list adfsdfasdf
+          p
+          h4#9.hide adfdfasdf
+      li#li10
+        span
+          p.flex
+          //h1.list adfasdfdas
+          p
+          h4#10.hide adfadfa

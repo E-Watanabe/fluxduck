@@ -1,0 +1,2662 @@
+[
+    {
+        "Symbol": "VNET",
+        "Name": "21Vianet Group, Inc."
+    },
+    {
+        "Symbol": "TWOU",
+        "Name": "2U, Inc."
+    },
+    {
+        "Symbol": "DDD",
+        "Name": "3D Systems Corporation"
+    },
+    {
+        "Symbol": "JOBS",
+        "Name": "51job, Inc."
+    },
+    {
+        "Symbol": "WUBA",
+        "Name": "58.com Inc."
+    },
+    {
+        "Symbol": "ATEN",
+        "Name": "A10 Networks, Inc."
+    },
+    {
+        "Symbol": "AAN",
+        "Name": "Aaron&#39;s,  Inc."
+    },
+    {
+        "Symbol": "ACIW",
+        "Name": "ACI Worldwide, Inc."
+    },
+    {
+        "Symbol": "ACTS",
+        "Name": "Actions Semiconductor Co., Ltd."
+    },
+    {
+        "Symbol": "ATVI",
+        "Name": "Activision Blizzard, Inc"
+    },
+    {
+        "Symbol": "ACTA",
+        "Name": "Actua Corporation"
+    },
+    {
+        "Symbol": "ATU",
+        "Name": "Actuant Corporation"
+    },
+    {
+        "Symbol": "ACXM",
+        "Name": "Acxiom Corporation"
+    },
+    {
+        "Symbol": "ADEP",
+        "Name": "Adept Technology, Inc."
+    },
+    {
+        "Symbol": "ADBE",
+        "Name": "Adobe Systems Incorporated"
+    },
+    {
+        "Symbol": "AMD",
+        "Name": "Advanced Micro Devices, Inc."
+    },
+    {
+        "Symbol": "ASX",
+        "Name": "Advanced Semiconductor Engineering, Inc."
+    },
+    {
+        "Symbol": "ATE",
+        "Name": "Advantest Corporation (Kabushiki Kaisha Advantest) ADS"
+    },
+    {
+        "Symbol": "AER",
+        "Name": "Aercap Holdings N.V."
+    },
+    {
+        "Symbol": "ACY",
+        "Name": "AeroCentury Corp."
+    },
+    {
+        "Symbol": "HIVE",
+        "Name": "Aerohive Networks, Inc."
+    },
+    {
+        "Symbol": "WGA",
+        "Name": "AG&E Holdings, Inc."
+    },
+    {
+        "Symbol": "AGYS",
+        "Name": "Agilysys, Inc."
+    },
+    {
+        "Symbol": "AL",
+        "Name": "Air Lease Corporation"
+    },
+    {
+        "Symbol": "AYR",
+        "Name": "Aircastle Limited"
+    },
+    {
+        "Symbol": "AMCN",
+        "Name": "AirMedia Group Inc"
+    },
+    {
+        "Symbol": "AIXG",
+        "Name": "Aixtron SE"
+    },
+    {
+        "Symbol": "ALRM",
+        "Name": "Alarm.com Holdings, Inc."
+    },
+    {
+        "Symbol": "AFOP",
+        "Name": "Alliance Fiber Optic Products, Inc."
+    },
+    {
+        "Symbol": "ALLT",
+        "Name": "Allot Communications Ltd."
+    },
+    {
+        "Symbol": "MDRX",
+        "Name": "Allscripts Healthcare Solutions, Inc."
+    },
+    {
+        "Symbol": "AOSL",
+        "Name": "Alpha and Omega Semiconductor Limited"
+    },
+    {
+        "Symbol": "ALTR",
+        "Name": "Altera Corporation"
+    },
+    {
+        "Symbol": "AYA",
+        "Name": "Amaya Inc."
+    },
+    {
+        "Symbol": "AMBA",
+        "Name": "Ambarella, Inc."
+    },
+    {
+        "Symbol": "AMBR",
+        "Name": "Amber Road, Inc."
+    },
+    {
+        "Symbol": "DOX",
+        "Name": "Amdocs Limited"
+    },
+    {
+        "Symbol": "AMSWA",
+        "Name": "American Software, Inc."
+    },
+    {
+        "Symbol": "AMKR",
+        "Name": "Amkor Technology, Inc."
+    },
+    {
+        "Symbol": "AHS",
+        "Name": "AMN Healthcare Services Inc"
+    },
+    {
+        "Symbol": "ASYS",
+        "Name": "Amtech Systems, Inc."
+    },
+    {
+        "Symbol": "ANAD",
+        "Name": "ANADIGICS, Inc."
+    },
+    {
+        "Symbol": "ADI",
+        "Name": "Analog Devices, Inc."
+    },
+    {
+        "Symbol": "ANSS",
+        "Name": "ANSYS, Inc."
+    },
+    {
+        "Symbol": "ATNY",
+        "Name": "API Technologies Corp."
+    },
+    {
+        "Symbol": "APIC",
+        "Name": "Apigee Corporation"
+    },
+    {
+        "Symbol": "APPF",
+        "Name": "AppFolio, Inc."
+    },
+    {
+        "Symbol": "AAPL",
+        "Name": "Apple Inc."
+    },
+    {
+        "Symbol": "AMAT",
+        "Name": "Applied Materials, Inc."
+    },
+    {
+        "Symbol": "AMCC",
+        "Name": "Applied Micro Circuits Corporation"
+    },
+    {
+        "Symbol": "AAOI",
+        "Name": "Applied Optoelectronics, Inc."
+    },
+    {
+        "Symbol": "ARIS",
+        "Name": "ARI Network Services, Inc."
+    },
+    {
+        "Symbol": "ANET",
+        "Name": "Arista Networks, Inc."
+    },
+    {
+        "Symbol": "ARMH",
+        "Name": "ARM Holdings plc"
+    },
+    {
+        "Symbol": "ARRS",
+        "Name": "ARRIS Group, Inc."
+    },
+    {
+        "Symbol": "ASTI",
+        "Name": "Ascent Solar Technologies, Inc."
+    },
+    {
+        "Symbol": "ASML",
+        "Name": "ASML Holding N.V."
+    },
+    {
+        "Symbol": "AZPN",
+        "Name": "Aspen Technology, Inc."
+    },
+    {
+        "Symbol": "ALOT",
+        "Name": "Astro-Med, Inc."
+    },
+    {
+        "Symbol": "ASUR",
+        "Name": "Asure Software Inc"
+    },
+    {
+        "Symbol": "ATML",
+        "Name": "Atmel Corporation"
+    },
+    {
+        "Symbol": "ATTU",
+        "Name": "Attunity Ltd."
+    },
+    {
+        "Symbol": "AUO",
+        "Name": "AU Optronics Corp"
+    },
+    {
+        "Symbol": "ADAT",
+        "Name": "Authentidate Holding Corp."
+    },
+    {
+        "Symbol": "ABTL",
+        "Name": "Autobytel Inc."
+    },
+    {
+        "Symbol": "ADSK",
+        "Name": "Autodesk, Inc."
+    },
+    {
+        "Symbol": "ATHM",
+        "Name": "Autohome Inc."
+    },
+    {
+        "Symbol": "ADP",
+        "Name": "Automatic Data Processing, Inc."
+    },
+    {
+        "Symbol": "AVGO",
+        "Name": "Avago Technologies Limited"
+    },
+    {
+        "Symbol": "AVG",
+        "Name": "AVG Technologies N.V."
+    },
+    {
+        "Symbol": "AVNW",
+        "Name": "Aviat Networks, Inc."
+    },
+    {
+        "Symbol": "AVOL",
+        "Name": "Avolon Holdings Limited"
+    },
+    {
+        "Symbol": "AWRE",
+        "Name": "Aware, Inc."
+    },
+    {
+        "Symbol": "ACLS",
+        "Name": "Axcelis Technologies, Inc."
+    },
+    {
+        "Symbol": "AXTI",
+        "Name": "AXT Inc"
+    },
+    {
+        "Symbol": "BOSC",
+        "Name": "B.O.S. Better Online Solutions"
+    },
+    {
+        "Symbol": "BIDU",
+        "Name": "Baidu, Inc."
+    },
+    {
+        "Symbol": "CUDA",
+        "Name": "Barracuda Networks, Inc."
+    },
+    {
+        "Symbol": "BBSI",
+        "Name": "Barrett Business Services, Inc."
+    },
+    {
+        "Symbol": "BV",
+        "Name": "Bazaarvoice, Inc."
+    },
+    {
+        "Symbol": "BHE",
+        "Name": "Benchmark Electronics, Inc."
+    },
+    {
+        "Symbol": "BNFT",
+        "Name": "Benefitfocus, Inc."
+    },
+    {
+        "Symbol": "BGSF",
+        "Name": "BG Staffing Inc"
+    },
+    {
+        "Symbol": "BITA",
+        "Name": "Bitauto Holdings Limited"
+    },
+    {
+        "Symbol": "BBOX",
+        "Name": "Black Box Corporation"
+    },
+    {
+        "Symbol": "BKFS",
+        "Name": "Black Knight Financial Services, Inc."
+    },
+    {
+        "Symbol": "BLKB",
+        "Name": "Blackbaud, Inc."
+    },
+    {
+        "Symbol": "BDR",
+        "Name": "Blonder Tongue Laboratories, Inc."
+    },
+    {
+        "Symbol": "BCOR",
+        "Name": "Blucora, Inc."
+    },
+    {
+        "Symbol": "EPAY",
+        "Name": "Bottomline Technologies, Inc."
+    },
+    {
+        "Symbol": "BOX",
+        "Name": "Box, Inc."
+    },
+    {
+        "Symbol": "BLIN          ",
+        "Name": "Bridgeline Digital, Inc."
+    },
+    {
+        "Symbol": "BCOV",
+        "Name": "Brightcove Inc."
+    },
+    {
+        "Symbol": "BRCM",
+        "Name": "Broadcom Corporation"
+    },
+    {
+        "Symbol": "BSFT",
+        "Name": "BroadSoft, Inc."
+    },
+    {
+        "Symbol": "BVSN",
+        "Name": "BroadVision, Inc."
+    },
+    {
+        "Symbol": "BRCD",
+        "Name": "Brocade Communications Systems, Inc."
+    },
+    {
+        "Symbol": "BRKS",
+        "Name": "Brooks Automation, Inc."
+    },
+    {
+        "Symbol": "CA",
+        "Name": "CA Inc."
+    },
+    {
+        "Symbol": "CCMP",
+        "Name": "Cabot Microelectronics Corporation"
+    },
+    {
+        "Symbol": "CACI",
+        "Name": "CACI International, Inc."
+    },
+    {
+        "Symbol": "CDNS",
+        "Name": "Cadence Design Systems, Inc."
+    },
+    {
+        "Symbol": "CAI",
+        "Name": "CAI International, Inc."
+    },
+    {
+        "Symbol": "CAMP",
+        "Name": "CalAmp Corp."
+    },
+    {
+        "Symbol": "CALD",
+        "Name": "Callidus Software, Inc."
+    },
+    {
+        "Symbol": "CSIQ",
+        "Name": "Canadian Solar Inc."
+    },
+    {
+        "Symbol": "CARB",
+        "Name": "Carbonite, Inc."
+    },
+    {
+        "Symbol": "CSLT",
+        "Name": "Castlight Health, inc."
+    },
+    {
+        "Symbol": "CAVM",
+        "Name": "Cavium, Inc."
+    },
+    {
+        "Symbol": "CDI",
+        "Name": "CDI Corporation"
+    },
+    {
+        "Symbol": "CLS",
+        "Name": "Celestica, Inc."
+    },
+    {
+        "Symbol": "CRNT",
+        "Name": "Ceragon Networks Ltd."
+    },
+    {
+        "Symbol": "CERN",
+        "Name": "Cerner Corporation"
+    },
+    {
+        "Symbol": "CEVA",
+        "Name": "CEVA, Inc."
+    },
+    {
+        "Symbol": "CYOU",
+        "Name": "Changyou.com Limited"
+    },
+    {
+        "Symbol": "ECOM          ",
+        "Name": "ChannelAdvisor Corporation"
+    },
+    {
+        "Symbol": "CHKP",
+        "Name": "Check Point Software Technologies Ltd."
+    },
+    {
+        "Symbol": "CMCM",
+        "Name": "Cheetah Mobile Inc."
+    },
+    {
+        "Symbol": "CVR",
+        "Name": "Chicago Rivet & Machine Co."
+    },
+    {
+        "Symbol": "STV",
+        "Name": "China Digital TV Holding Co., Ltd."
+    },
+    {
+        "Symbol": "CNIT",
+        "Name": "China Information Technology, Inc."
+    },
+    {
+        "Symbol": "CSUN",
+        "Name": "China Sunergy Co., Ltd."
+    },
+    {
+        "Symbol": "CCIH",
+        "Name": "ChinaCache International Holdings Ltd."
+    },
+    {
+        "Symbol": "CNET",
+        "Name": "ChinaNet Online Holdings, Inc."
+    },
+    {
+        "Symbol": "IMOS",
+        "Name": "ChipMOS TECHNOLOGIES (Bermuda) LTD."
+    },
+    {
+        "Symbol": "CBR",
+        "Name": "Ciber, Inc."
+    },
+    {
+        "Symbol": "CRUS",
+        "Name": "Cirrus Logic, Inc."
+    },
+    {
+        "Symbol": "CSCO",
+        "Name": "Cisco Systems, Inc."
+    },
+    {
+        "Symbol": "CTXS",
+        "Name": "Citrix Systems, Inc."
+    },
+    {
+        "Symbol": "CLNT",
+        "Name": "Cleantech Solutions International, Inc."
+    },
+    {
+        "Symbol": "CDRB",
+        "Name": "Code Rebel Corporation"
+    },
+    {
+        "Symbol": "CCOI",
+        "Name": "Cogent Communications Holdings, Inc."
+    },
+    {
+        "Symbol": "CTSH",
+        "Name": "Cognizant Technology Solutions Corporation"
+    },
+    {
+        "Symbol": "CLRX",
+        "Name": "CollabRx, Inc."
+    },
+    {
+        "Symbol": "COMM",
+        "Name": "CommScope Holding Company, Inc."
+    },
+    {
+        "Symbol": "CVLT",
+        "Name": "CommVault Systems, Inc."
+    },
+    {
+        "Symbol": "CPSI",
+        "Name": "Computer Programs and Systems, Inc."
+    },
+    {
+        "Symbol": "CSC",
+        "Name": "Computer Sciences Corporation"
+    },
+    {
+        "Symbol": "CTG",
+        "Name": "Computer Task Group, Incorporated"
+    },
+    {
+        "Symbol": "CMTL",
+        "Name": "Comtech Telecommunications Corp."
+    },
+    {
+        "Symbol": "CCUR",
+        "Name": "Concurrent Computer Corporation"
+    },
+    {
+        "Symbol": "CNXR",
+        "Name": "Connecture, Inc."
+    },
+    {
+        "Symbol": "CTCT",
+        "Name": "Constant Contact, Inc."
+    },
+    {
+        "Symbol": "CVG",
+        "Name": "Convergys Corporation"
+    },
+    {
+        "Symbol": "CLGX",
+        "Name": "CoreLogic, Inc."
+    },
+    {
+        "Symbol": "CSOD",
+        "Name": "Cornerstone OnDemand, Inc."
+    },
+    {
+        "Symbol": "CPAH",
+        "Name": "CounterPath Corporation"
+    },
+    {
+        "Symbol": "COVS",
+        "Name": "Covisint Corporation"
+    },
+    {
+        "Symbol": "CRAY",
+        "Name": "Cray Inc"
+    },
+    {
+        "Symbol": "CREE",
+        "Name": "Cree, Inc."
+    },
+    {
+        "Symbol": "CRTO",
+        "Name": "Criteo S.A."
+    },
+    {
+        "Symbol": "CCRN",
+        "Name": "Cross Country Healthcare, Inc."
+    },
+    {
+        "Symbol": "CRDS",
+        "Name": "Crossroads Systems, Inc."
+    },
+    {
+        "Symbol": "CSGS",
+        "Name": "CSG Systems International, Inc."
+    },
+    {
+        "Symbol": "CSPI",
+        "Name": "CSP Inc."
+    },
+    {
+        "Symbol": "CTS",
+        "Name": "CTS Corporation"
+    },
+    {
+        "Symbol": "CW",
+        "Name": "Curtiss-Wright Corporation"
+    },
+    {
+        "Symbol": "CVV",
+        "Name": "CVD Equipment Corporation"
+    },
+    {
+        "Symbol": "CVT",
+        "Name": "CVENT, INC."
+    },
+    {
+        "Symbol": "CYBR",
+        "Name": "CyberArk Software Ltd."
+    },
+    {
+        "Symbol": "CY",
+        "Name": "Cypress Semiconductor Corporation"
+    },
+    {
+        "Symbol": "CYRN",
+        "Name": "CYREN Ltd."
+    },
+    {
+        "Symbol": "DAEG",
+        "Name": "Daegis Inc"
+    },
+    {
+        "Symbol": "DQ",
+        "Name": "DAQO New Energy Corp."
+    },
+    {
+        "Symbol": "DTLK",
+        "Name": "Datalink Corporation"
+    },
+    {
+        "Symbol": "DRAM",
+        "Name": "Dataram Corporation"
+    },
+    {
+        "Symbol": "DWCH",
+        "Name": "Datawatch Corporation"
+    },
+    {
+        "Symbol": "TRAK",
+        "Name": "Dealertrack Technologies, Inc."
+    },
+    {
+        "Symbol": "DMD",
+        "Name": "Demand Media Inc."
+    },
+    {
+        "Symbol": "DWRE",
+        "Name": "DEMANDWARE, INC."
+    },
+    {
+        "Symbol": "DGII",
+        "Name": "Digi International Inc."
+    },
+    {
+        "Symbol": "DMRC",
+        "Name": "Digimarc Corporation"
+    },
+    {
+        "Symbol": "DGLY",
+        "Name": "Digital Ally, Inc."
+    },
+    {
+        "Symbol": "DIOD",
+        "Name": "Diodes Incorporated"
+    },
+    {
+        "Symbol": "DLHC",
+        "Name": "DLH Holdings Corp."
+    },
+    {
+        "Symbol": "DLB",
+        "Name": "Dolby Laboratories"
+    },
+    {
+        "Symbol": "HILL",
+        "Name": "Dot Hill Systems Corporation"
+    },
+    {
+        "Symbol": "DOV",
+        "Name": "Dover Corporation"
+    },
+    {
+        "Symbol": "DSPG",
+        "Name": "DSP Group, Inc."
+    },
+    {
+        "Symbol": "DST",
+        "Name": "DST Systems, Inc."
+    },
+    {
+        "Symbol": "ELNK",
+        "Name": "EarthLink Holdings Corp."
+    },
+    {
+        "Symbol": "ETN",
+        "Name": "Eaton Corporation, PLC"
+    },
+    {
+        "Symbol": "EBIX",
+        "Name": "Ebix, Inc."
+    },
+    {
+        "Symbol": "ELON",
+        "Name": "Echelon Corporation"
+    },
+    {
+        "Symbol": "SATS",
+        "Name": "EchoStar Corporation"
+    },
+    {
+        "Symbol": "EDGW",
+        "Name": "Edgewater Technology, Inc."
+    },
+    {
+        "Symbol": "EFUT",
+        "Name": "eFuture Information Technology Inc."
+    },
+    {
+        "Symbol": "EGAN",
+        "Name": "eGain Corporation"
+    },
+    {
+        "Symbol": "ELRC",
+        "Name": "Electro Rent Corporation"
+    },
+    {
+        "Symbol": "EA",
+        "Name": "Electronic Arts Inc."
+    },
+    {
+        "Symbol": "EFII",
+        "Name": "Electronics for Imaging, Inc."
+    },
+    {
+        "Symbol": "ELLI",
+        "Name": "Ellie Mae, Inc."
+    },
+    {
+        "Symbol": "ELTK",
+        "Name": "Eltek Ltd."
+    },
+    {
+        "Symbol": "EMAN",
+        "Name": "eMagin Corporation"
+    },
+    {
+        "Symbol": "EMC",
+        "Name": "EMC Corporation"
+    },
+    {
+        "Symbol": "EMKR",
+        "Name": "EMCORE Corporation"
+    },
+    {
+        "Symbol": "EIGI",
+        "Name": "Endurance International Group Holdings, Inc."
+    },
+    {
+        "Symbol": "WATT",
+        "Name": "Energous Corporation"
+    },
+    {
+        "Symbol": "ERII",
+        "Name": "Energy Recovery, Inc."
+    },
+    {
+        "Symbol": "ENOC",
+        "Name": "EnerNOC, Inc."
+    },
+    {
+        "Symbol": "ENPH",
+        "Name": "Enphase Energy, Inc."
+    },
+    {
+        "Symbol": "ENVI",
+        "Name": "Envivio, Inc."
+    },
+    {
+        "Symbol": "EPAM",
+        "Name": "EPAM Systems, Inc."
+    },
+    {
+        "Symbol": "EPIQ",
+        "Name": "EPIQ Systems, Inc."
+    },
+    {
+        "Symbol": "PLUS",
+        "Name": "ePlus inc."
+    },
+    {
+        "Symbol": "ERIC",
+        "Name": "Ericsson"
+    },
+    {
+        "Symbol": "EVTC",
+        "Name": "Evertec, Inc."
+    },
+    {
+        "Symbol": "EVOL",
+        "Name": "Evolving Systems, Inc."
+    },
+    {
+        "Symbol": "EXA",
+        "Name": "Exa Corporation"
+    },
+    {
+        "Symbol": "EXAR",
+        "Name": "Exar Corporation"
+    },
+    {
+        "Symbol": "EXH",
+        "Name": "Exterran Holdings, Inc."
+    },
+    {
+        "Symbol": "EXTR",
+        "Name": "Extreme Networks, Inc."
+    },
+    {
+        "Symbol": "EZCH",
+        "Name": "EZchip Semiconductor Limited"
+    },
+    {
+        "Symbol": "FFIV",
+        "Name": "F5 Networks, Inc."
+    },
+    {
+        "Symbol": "FB",
+        "Name": "Facebook, Inc."
+    },
+    {
+        "Symbol": "FDS",
+        "Name": "FactSet Research Systems Inc."
+    },
+    {
+        "Symbol": "FCS",
+        "Name": "Fairchild Semiconductor International, Inc."
+    },
+    {
+        "Symbol": "FALC",
+        "Name": "FalconStor Software, Inc."
+    },
+    {
+        "Symbol": "FNSR",
+        "Name": "Finisar Corporation"
+    },
+    {
+        "Symbol": "FEYE",
+        "Name": "FireEye, Inc."
+    },
+    {
+        "Symbol": "FSLR",
+        "Name": "First Solar, Inc."
+    },
+    {
+        "Symbol": "FISV",
+        "Name": "Fiserv, Inc."
+    },
+    {
+        "Symbol": "FIT",
+        "Name": "Fitbit, Inc."
+    },
+    {
+        "Symbol": "FIVN",
+        "Name": "Five9, Inc."
+    },
+    {
+        "Symbol": "FLTX",
+        "Name": "Fleetmatics Group PLC"
+    },
+    {
+        "Symbol": "FLEX",
+        "Name": "Flextronics International Ltd."
+    },
+    {
+        "Symbol": "FORM",
+        "Name": "FormFactor, Inc."
+    },
+    {
+        "Symbol": "FORTY",
+        "Name": "Formula Systems (1985) Ltd."
+    },
+    {
+        "Symbol": "FTNT",
+        "Name": "Fortinet, Inc."
+    },
+    {
+        "Symbol": "FSL",
+        "Name": "Freescale Semiconductor, Ltd."
+    },
+    {
+        "Symbol": "FSNN",
+        "Name": "Fusion Telecommunications International, Inc."
+    },
+    {
+        "Symbol": "JOB",
+        "Name": "General Employment Enterprises, Inc."
+    },
+    {
+        "Symbol": "GIGM",
+        "Name": "GigaMedia Limited"
+    },
+    {
+        "Symbol": "GIMO",
+        "Name": "Gigamon Inc."
+    },
+    {
+        "Symbol": "GIG",
+        "Name": "GigOptix, Inc."
+    },
+    {
+        "Symbol": "GILT",
+        "Name": "Gilat Satellite Networks Ltd."
+    },
+    {
+        "Symbol": "GSB",
+        "Name": "GlobalSCAPE, Inc."
+    },
+    {
+        "Symbol": "GLOB",
+        "Name": "Globant S.A."
+    },
+    {
+        "Symbol": "GLUU",
+        "Name": "Glu Mobile Inc."
+    },
+    {
+        "Symbol": "GDDY",
+        "Name": "GoDaddy Inc."
+    },
+    {
+        "Symbol": "GOOG",
+        "Name": "Google Inc."
+    },
+    {
+        "Symbol": "GOOGL",
+        "Name": "Google Inc."
+    },
+    {
+        "Symbol": "GHM",
+        "Name": "Graham Corporation"
+    },
+    {
+        "Symbol": "GRPN",
+        "Name": "Groupon, Inc."
+    },
+    {
+        "Symbol": "GVP",
+        "Name": "GSE Systems, Inc."
+    },
+    {
+        "Symbol": "GSIT",
+        "Name": "GSI Technology, Inc."
+    },
+    {
+        "Symbol": "GUID",
+        "Name": "Guidance Software, Inc."
+    },
+    {
+        "Symbol": "GWRE",
+        "Name": "Guidewire Software, Inc."
+    },
+    {
+        "Symbol": "HQCL",
+        "Name": "Hanwha Q CELLS Co., Ltd. "
+    },
+    {
+        "Symbol": "HLIT",
+        "Name": "Harmonic Inc."
+    },
+    {
+        "Symbol": "HHS",
+        "Name": "Harte-Hanks, Inc."
+    },
+    {
+        "Symbol": "HSTM",
+        "Name": "HealthStream, Inc."
+    },
+    {
+        "Symbol": "HSII",
+        "Name": "Heidrick & Struggles International, Inc."
+    },
+    {
+        "Symbol": "HPQ",
+        "Name": "Hewlett-Packard Company"
+    },
+    {
+        "Symbol": "HIMX",
+        "Name": "Himax Technologies, Inc."
+    },
+    {
+        "Symbol": "AWAY",
+        "Name": "HomeAway, Inc."
+    },
+    {
+        "Symbol": "HDP",
+        "Name": "Hortonworks, Inc."
+    },
+    {
+        "Symbol": "HUBS",
+        "Name": "HubSpot, Inc."
+    },
+    {
+        "Symbol": "HSON",
+        "Name": "Hudson Global, Inc."
+    },
+    {
+        "Symbol": "INVE",
+        "Name": "Identiv, Inc."
+    },
+    {
+        "Symbol": "DSKY",
+        "Name": "iDreamSky Technology Limited"
+    },
+    {
+        "Symbol": "IEC",
+        "Name": "IEC Electronics Corp."
+    },
+    {
+        "Symbol": "IHS",
+        "Name": "IHS Inc."
+    },
+    {
+        "Symbol": "ITW",
+        "Name": "Illinois Tool Works Inc."
+    },
+    {
+        "Symbol": "IMN",
+        "Name": "Imation Corporation"
+    },
+    {
+        "Symbol": "IMMR",
+        "Name": "Immersion Corporation"
+    },
+    {
+        "Symbol": "IMPV",
+        "Name": "Imperva, Inc."
+    },
+    {
+        "Symbol": "IMPR",
+        "Name": "Imprivata, Inc."
+    },
+    {
+        "Symbol": "IMS",
+        "Name": "IMS Health Holdings, Inc."
+    },
+    {
+        "Symbol": "SAAS",
+        "Name": "inContact, Inc."
+    },
+    {
+        "Symbol": "BLOX",
+        "Name": "Infoblox Inc."
+    },
+    {
+        "Symbol": "INFY",
+        "Name": "Infosys Limited"
+    },
+    {
+        "Symbol": "IM",
+        "Name": "Ingram Micro Inc."
+    },
+    {
+        "Symbol": "INOD",
+        "Name": "Innodata Inc."
+    },
+    {
+        "Symbol": "ISSC",
+        "Name": "Innovative Solutions and Support, Inc."
+    },
+    {
+        "Symbol": "INOV",
+        "Name": "Inovalon Holdings, Inc."
+    },
+    {
+        "Symbol": "IPHI",
+        "Name": "Inphi Corporation"
+    },
+    {
+        "Symbol": "NSP",
+        "Name": "Insperity, Inc."
+    },
+    {
+        "Symbol": "IDTI",
+        "Name": "Integrated Device Technology, Inc."
+    },
+    {
+        "Symbol": "ISSI",
+        "Name": "Integrated Silicon Solution, Inc."
+    },
+    {
+        "Symbol": "INTC",
+        "Name": "Intel Corporation"
+    },
+    {
+        "Symbol": "IDN",
+        "Name": "Intellicheck Mobilisa, Inc."
+    },
+    {
+        "Symbol": "ININ",
+        "Name": "Interactive Intelligence Group, Inc."
+    },
+    {
+        "Symbol": "IMI",
+        "Name": "Intermolecular, Inc."
+    },
+    {
+        "Symbol": "INAP",
+        "Name": "Internap Corporation"
+    },
+    {
+        "Symbol": "IBM",
+        "Name": "International Business Machines Corporation"
+    },
+    {
+        "Symbol": "IIJI",
+        "Name": "Internet Initiative Japan, Inc."
+    },
+    {
+        "Symbol": "INPH",
+        "Name": "Interphase Corporation"
+    },
+    {
+        "Symbol": "IPG",
+        "Name": "Interpublic Group of Companies, Inc. (The)"
+    },
+    {
+        "Symbol": "INTX",
+        "Name": "Intersections, Inc."
+    },
+    {
+        "Symbol": "ISIL",
+        "Name": "Intersil Corporation"
+    },
+    {
+        "Symbol": "INXN",
+        "Name": "InterXion Holding N.V."
+    },
+    {
+        "Symbol": "IVAC",
+        "Name": "Intevac, Inc."
+    },
+    {
+        "Symbol": "IL",
+        "Name": "IntraLinks Holdings, Inc."
+    },
+    {
+        "Symbol": "INTU",
+        "Name": "Intuit Inc."
+    },
+    {
+        "Symbol": "INVN",
+        "Name": "InvenSense, Inc."
+    },
+    {
+        "Symbol": "IPAS",
+        "Name": "iPass Inc."
+    },
+    {
+        "Symbol": "IPGP",
+        "Name": "IPG Photonics Corporation"
+    },
+    {
+        "Symbol": "IXYS",
+        "Name": "IXYS Corporation"
+    },
+    {
+        "Symbol": "JCOM",
+        "Name": "j2 Global, Inc."
+    },
+    {
+        "Symbol": "JASO",
+        "Name": "JA Solar Holdings, Co., Ltd."
+    },
+    {
+        "Symbol": "JBL",
+        "Name": "Jabil Circuit, Inc."
+    },
+    {
+        "Symbol": "JKHY",
+        "Name": "Jack Henry & Associates, Inc."
+    },
+    {
+        "Symbol": "DATE",
+        "Name": "Jiayuan.com International Ltd."
+    },
+    {
+        "Symbol": "JKS",
+        "Name": "JinkoSolar Holding Company Limited"
+    },
+    {
+        "Symbol": "JIVE",
+        "Name": "Jive Software, Inc."
+    },
+    {
+        "Symbol": "JBT",
+        "Name": "John Bean Technologies Corporation"
+    },
+    {
+        "Symbol": "JNPR",
+        "Name": "Juniper Networks, Inc."
+    },
+    {
+        "Symbol": "KAI",
+        "Name": "Kadant Inc"
+    },
+    {
+        "Symbol": "KELYA",
+        "Name": "Kelly Services, Inc."
+    },
+    {
+        "Symbol": "KELYB",
+        "Name": "Kelly Services, Inc."
+    },
+    {
+        "Symbol": "KTEC",
+        "Name": "Key Technology, Inc."
+    },
+    {
+        "Symbol": "KTCC",
+        "Name": "Key Tronic Corporation"
+    },
+    {
+        "Symbol": "KFRC",
+        "Name": "Kforce, Inc."
+    },
+    {
+        "Symbol": "KE",
+        "Name": "Kimball Electronics, Inc."
+    },
+    {
+        "Symbol": "KING",
+        "Name": "King Digital Entertainment plc"
+    },
+    {
+        "Symbol": "KONE",
+        "Name": "Kingtone Wirelessinfo Solution Holding Ltd"
+    },
+    {
+        "Symbol": "KZ",
+        "Name": "KongZhong Corporation"
+    },
+    {
+        "Symbol": "KOPN",
+        "Name": "Kopin Corporation"
+    },
+    {
+        "Symbol": "KFY",
+        "Name": "Korn/Ferry International"
+    },
+    {
+        "Symbol": "KLIC",
+        "Name": "Kulicke and Soffa Industries, Inc."
+    },
+    {
+        "Symbol": "KVHI",
+        "Name": "KVH Industries, Inc."
+    },
+    {
+        "Symbol": "KYO",
+        "Name": "Kyocera Corporation"
+    },
+    {
+        "Symbol": "LLL",
+        "Name": "L-3 Communications Holdings, Inc."
+    },
+    {
+        "Symbol": "LRCX",
+        "Name": "Lam Research Corporation"
+    },
+    {
+        "Symbol": "LTRX",
+        "Name": "Lantronix, Inc."
+    },
+    {
+        "Symbol": "LSCC",
+        "Name": "Lattice Semiconductor Corporation"
+    },
+    {
+        "Symbol": "LDOS",
+        "Name": "Leidos Holdings, Inc."
+    },
+    {
+        "Symbol": "LXK",
+        "Name": "Lexmark International, Inc."
+    },
+    {
+        "Symbol": "LTRPA",
+        "Name": "Liberty TripAdvisor Holdings, Inc."
+    },
+    {
+        "Symbol": "LTRPB",
+        "Name": "Liberty TripAdvisor Holdings, Inc."
+    },
+    {
+        "Symbol": "LOCK",
+        "Name": "LifeLock, Inc."
+    },
+    {
+        "Symbol": "LPTH",
+        "Name": "LightPath Technologies, Inc."
+    },
+    {
+        "Symbol": "LECO",
+        "Name": "Lincoln Electric Holdings, Inc."
+    },
+    {
+        "Symbol": "LLTC",
+        "Name": "Linear Technology Corporation"
+    },
+    {
+        "Symbol": "LNKD",
+        "Name": "LinkedIn Corporation"
+    },
+    {
+        "Symbol": "LIQT",
+        "Name": "LiqTech International, Inc."
+    },
+    {
+        "Symbol": "LIQD",
+        "Name": "Liquid Holdings Group, Inc."
+    },
+    {
+        "Symbol": "LIVE",
+        "Name": "LiveDeal, Inc."
+    },
+    {
+        "Symbol": "LPSN",
+        "Name": "LivePerson, Inc."
+    },
+    {
+        "Symbol": "LOGI",
+        "Name": "Logitech International S.A."
+    },
+    {
+        "Symbol": "LOGM",
+        "Name": "LogMein, Inc."
+    },
+    {
+        "Symbol": "LOOK",
+        "Name": "LookSmart, Ltd."
+    },
+    {
+        "Symbol": "LORL",
+        "Name": "Loral Space and Communications, Inc."
+    },
+    {
+        "Symbol": "LXFT",
+        "Name": "Luxoft Holding, Inc."
+    },
+    {
+        "Symbol": "MTSI",
+        "Name": "M/A-COM Technology Solutions Holdings, Inc."
+    },
+    {
+        "Symbol": "MGIC",
+        "Name": "Magic Software Enterprises Ltd."
+    },
+    {
+        "Symbol": "MX",
+        "Name": "MagnaChip Semiconductor Corporation"
+    },
+    {
+        "Symbol": "MNGA",
+        "Name": "MagneGas Corporation"
+    },
+    {
+        "Symbol": "MJCO",
+        "Name": "Majesco"
+    },
+    {
+        "Symbol": "COOL",
+        "Name": "Majesco Entertainment Company"
+    },
+    {
+        "Symbol": "MAMS",
+        "Name": "MAM Software Group, Inc."
+    },
+    {
+        "Symbol": "MANH",
+        "Name": "Manhattan Associates, Inc."
+    },
+    {
+        "Symbol": "MNTX",
+        "Name": "Manitex International, Inc."
+    },
+    {
+        "Symbol": "MAN",
+        "Name": "ManpowerGroup"
+    },
+    {
+        "Symbol": "MRIN",
+        "Name": "Marin Software Incorporated"
+    },
+    {
+        "Symbol": "MKTO",
+        "Name": "Marketo, Inc."
+    },
+    {
+        "Symbol": "MRVL",
+        "Name": "Marvell Technology Group Ltd."
+    },
+    {
+        "Symbol": "MTLS",
+        "Name": "Materialise NV"
+    },
+    {
+        "Symbol": "MATR",
+        "Name": "Mattersight Corporation"
+    },
+    {
+        "Symbol": "MTSN",
+        "Name": "Mattson Technology, Inc."
+    },
+    {
+        "Symbol": "MXIM",
+        "Name": "Maxim Integrated Products, Inc."
+    },
+    {
+        "Symbol": "MXL",
+        "Name": "MaxLinear, Inc"
+    },
+    {
+        "Symbol": "MGRC",
+        "Name": "McGrath RentCorp"
+    },
+    {
+        "Symbol": "MDCA",
+        "Name": "MDC Partners Inc."
+    },
+    {
+        "Symbol": "MDAS",
+        "Name": "MedAssets, Inc."
+    },
+    {
+        "Symbol": "MTBC",
+        "Name": "Medical Transcription Billing, Corp."
+    },
+    {
+        "Symbol": "MDSO",
+        "Name": "Medidata Solutions, Inc."
+    },
+    {
+        "Symbol": "MLNX",
+        "Name": "Mellanox Technologies, Ltd."
+    },
+    {
+        "Symbol": "MENT",
+        "Name": "Mentor Graphics Corporation"
+    },
+    {
+        "Symbol": "MRGE",
+        "Name": "Merge Healthcare Incorporated."
+    },
+    {
+        "Symbol": "MCHP",
+        "Name": "Microchip Technology Incorporated"
+    },
+    {
+        "Symbol": "MU",
+        "Name": "Micron Technology, Inc."
+    },
+    {
+        "Symbol": "MSCC",
+        "Name": "Microsemi Corporation"
+    },
+    {
+        "Symbol": "MSFT",
+        "Name": "Microsoft Corporation"
+    },
+    {
+        "Symbol": "MSTR",
+        "Name": "MicroStrategy Incorporated"
+    },
+    {
+        "Symbol": "MCRN",
+        "Name": "Milacron Holdings Corp."
+    },
+    {
+        "Symbol": "MM",
+        "Name": "Millennial Media, Inc."
+    },
+    {
+        "Symbol": "MNDO",
+        "Name": "MIND C.T.I. Ltd."
+    },
+    {
+        "Symbol": "MB",
+        "Name": "MINDBODY, Inc."
+    },
+    {
+        "Symbol": "MIND",
+        "Name": "Mitcham Industries, Inc."
+    },
+    {
+        "Symbol": "MITK",
+        "Name": "Mitek Systems, Inc."
+    },
+    {
+        "Symbol": "MITL",
+        "Name": "Mitel Networks Corporation"
+    },
+    {
+        "Symbol": "MIXT",
+        "Name": "MiX Telematics Limited"
+    },
+    {
+        "Symbol": "MOBL",
+        "Name": "MobileIron, Inc."
+    },
+    {
+        "Symbol": "MBLY",
+        "Name": "Mobileye N.V."
+    },
+    {
+        "Symbol": "MODN",
+        "Name": "Model N, Inc."
+    },
+    {
+        "Symbol": "MDSY",
+        "Name": "ModSys International Ltd."
+    },
+    {
+        "Symbol": "MOKO",
+        "Name": "Moko Social Media Ltd."
+    },
+    {
+        "Symbol": "MOMO",
+        "Name": "Momo Inc."
+    },
+    {
+        "Symbol": "MPWR",
+        "Name": "Monolithic Power Systems, Inc."
+    },
+    {
+        "Symbol": "TYPE",
+        "Name": "Monotype Imaging Holdings Inc."
+    },
+    {
+        "Symbol": "MWW",
+        "Name": "Monster Worldwide, Inc."
+    },
+    {
+        "Symbol": "MOSY",
+        "Name": "MoSys, Inc."
+    },
+    {
+        "Symbol": "MSI",
+        "Name": "Motorola Solutions, Inc."
+    },
+    {
+        "Symbol": "MRVC",
+        "Name": "MRV Communications, Inc."
+    },
+    {
+        "Symbol": "MFLX",
+        "Name": "Multi-Fineline Electronix, Inc."
+    },
+    {
+        "Symbol": "NATI",
+        "Name": "National Instruments Corporation"
+    },
+    {
+        "Symbol": "NCIT",
+        "Name": "NCI, Inc."
+    },
+    {
+        "Symbol": "NEFF",
+        "Name": "Neff Corporation"
+    },
+    {
+        "Symbol": "NPTN",
+        "Name": "NeoPhotonics Corporation"
+    },
+    {
+        "Symbol": "NETE",
+        "Name": "Net Element, Inc."
+    },
+    {
+        "Symbol": "NTAP",
+        "Name": "NetApp, Inc."
+    },
+    {
+        "Symbol": "NLST",
+        "Name": "Netlist, Inc."
+    },
+    {
+        "Symbol": "NTCT",
+        "Name": "NetScout Systems, Inc."
+    },
+    {
+        "Symbol": "NTWK",
+        "Name": "NetSol Technologies Inc."
+    },
+    {
+        "Symbol": "N",
+        "Name": "Netsuite Inc"
+    },
+    {
+        "Symbol": "NTIP",
+        "Name": "Network-1 Technologies, Inc."
+    },
+    {
+        "Symbol": "NEWR",
+        "Name": "New Relic, Inc."
+    },
+    {
+        "Symbol": "NICE",
+        "Name": "NICE-Systems Limited"
+    },
+    {
+        "Symbol": "NMBL",
+        "Name": "Nimble Storage, Inc."
+    },
+    {
+        "Symbol": "NOK",
+        "Name": "Nokia Corporation"
+    },
+    {
+        "Symbol": "NQ",
+        "Name": "NQ Mobile Inc."
+    },
+    {
+        "Symbol": "DCM",
+        "Name": "NTT DOCOMO, Inc"
+    },
+    {
+        "Symbol": "NUAN",
+        "Name": "Nuance Communications, Inc."
+    },
+    {
+        "Symbol": "NVEC",
+        "Name": "NVE Corporation"
+    },
+    {
+        "Symbol": "NVDA",
+        "Name": "NVIDIA Corporation"
+    },
+    {
+        "Symbol": "NXPI",
+        "Name": "NXP Semiconductors N.V."
+    },
+    {
+        "Symbol": "OIIM",
+        "Name": "O2Micro International Limited"
+    },
+    {
+        "Symbol": "OCLR",
+        "Name": "Oclaro, Inc."
+    },
+    {
+        "Symbol": "OMCL",
+        "Name": "Omnicell, Inc."
+    },
+    {
+        "Symbol": "OMC",
+        "Name": "Omnicom Group Inc."
+    },
+    {
+        "Symbol": "OVTI",
+        "Name": "OmniVision Technologies, Inc."
+    },
+    {
+        "Symbol": "ASGN",
+        "Name": "On Assignment, Inc."
+    },
+    {
+        "Symbol": "ON",
+        "Name": "ON Semiconductor Corporation"
+    },
+    {
+        "Symbol": "OTIV",
+        "Name": "On Track Innovations Ltd"
+    },
+    {
+        "Symbol": "OOMA",
+        "Name": "Ooma, Inc."
+    },
+    {
+        "Symbol": "OTEX",
+        "Name": "Open Text Corporation"
+    },
+    {
+        "Symbol": "OPWR",
+        "Name": "Opower, Inc."
+    },
+    {
+        "Symbol": "ORCL",
+        "Name": "Oracle Corporation"
+    },
+    {
+        "Symbol": "OSIS",
+        "Name": "OSI Systems, Inc."
+    },
+    {
+        "Symbol": "PFIN",
+        "Name": "P & F Industries, Inc."
+    },
+    {
+        "Symbol": "PANW",
+        "Name": "Palo Alto Networks, Inc."
+    },
+    {
+        "Symbol": "PCYG",
+        "Name": "Park City Group, Inc."
+    },
+    {
+        "Symbol": "PKE",
+        "Name": "Park Electrochemical Corporation"
+    },
+    {
+        "Symbol": "PRKR",
+        "Name": "ParkerVision, Inc."
+    },
+    {
+        "Symbol": "PAYC",
+        "Name": "Paycom Software, Inc."
+    },
+    {
+        "Symbol": "PCTY",
+        "Name": "Paylocity Holding Corporation"
+    },
+    {
+        "Symbol": "PCTI",
+        "Name": "PC-Tel, Inc."
+    },
+    {
+        "Symbol": "PDFS",
+        "Name": "PDF Solutions, Inc."
+    },
+    {
+        "Symbol": "PEGA",
+        "Name": "Pegasystems Inc."
+    },
+    {
+        "Symbol": "PNR",
+        "Name": "Pentair plc."
+    },
+    {
+        "Symbol": "PRFT",
+        "Name": "Perficient, Inc."
+    },
+    {
+        "Symbol": "PSEM",
+        "Name": "Pericom Semiconductor Corporation"
+    },
+    {
+        "Symbol": "PERI",
+        "Name": "Perion Network Ltd"
+    },
+    {
+        "Symbol": "PLAB",
+        "Name": "Photronics, Inc."
+    },
+    {
+        "Symbol": "PXLW",
+        "Name": "Pixelworks, Inc."
+    },
+    {
+        "Symbol": "PLXS",
+        "Name": "Plexus Corp."
+    },
+    {
+        "Symbol": "PMCS",
+        "Name": "PMC - Sierra, Inc."
+    },
+    {
+        "Symbol": "PNTR",
+        "Name": "Pointer Telocation Ltd."
+    },
+    {
+        "Symbol": "POWI",
+        "Name": "Power Integrations, Inc."
+    },
+    {
+        "Symbol": "IPDN",
+        "Name": "Professional Diversity Network, Inc."
+    },
+    {
+        "Symbol": "PRGS",
+        "Name": "Progress Software Corporation"
+    },
+    {
+        "Symbol": "PFPT",
+        "Name": "Proofpoint, Inc."
+    },
+    {
+        "Symbol": "PRO",
+        "Name": "PROS Holdings, Inc."
+    },
+    {
+        "Symbol": "PTC",
+        "Name": "PTC Inc."
+    },
+    {
+        "Symbol": "QTWO",
+        "Name": "Q2 Holdings, Inc."
+    },
+    {
+        "Symbol": "QADA",
+        "Name": "QAD Inc."
+    },
+    {
+        "Symbol": "QADB",
+        "Name": "QAD Inc."
+    },
+    {
+        "Symbol": "QIHU",
+        "Name": "Qihoo 360 Technology Co. Ltd."
+    },
+    {
+        "Symbol": "QLIK",
+        "Name": "Qlik Technologies Inc."
+    },
+    {
+        "Symbol": "QLGC",
+        "Name": "QLogic Corporation"
+    },
+    {
+        "Symbol": "QRVO",
+        "Name": "Qorvo, Inc."
+    },
+    {
+        "Symbol": "QCOM",
+        "Name": "QUALCOMM Incorporated"
+    },
+    {
+        "Symbol": "QSII",
+        "Name": "Quality Systems, Inc."
+    },
+    {
+        "Symbol": "QBAK",
+        "Name": "Qualstar Corporation"
+    },
+    {
+        "Symbol": "QLYS",
+        "Name": "Qualys, Inc."
+    },
+    {
+        "Symbol": "QTM",
+        "Name": "Quantum Corporation"
+    },
+    {
+        "Symbol": "QRHC",
+        "Name": "Quest Resource Holding Corporation."
+    },
+    {
+        "Symbol": "QUIK",
+        "Name": "QuickLogic Corporation"
+    },
+    {
+        "Symbol": "QUMU",
+        "Name": "Qumu Corporation"
+    },
+    {
+        "Symbol": "QUNR",
+        "Name": "Qunar Cayman Islands Limited"
+    },
+    {
+        "Symbol": "RAX",
+        "Name": "Rackspace Hosting, Inc"
+    },
+    {
+        "Symbol": "RDCM",
+        "Name": "Radcom Ltd."
+    },
+    {
+        "Symbol": "RSYS",
+        "Name": "RadiSys Corporation"
+    },
+    {
+        "Symbol": "RMBS",
+        "Name": "Rambus, Inc."
+    },
+    {
+        "Symbol": "RPD",
+        "Name": "Rapid7, Inc."
+    },
+    {
+        "Symbol": "RCMT",
+        "Name": "RCM Technologies, Inc."
+    },
+    {
+        "Symbol": "RLOC",
+        "Name": "ReachLocal, Inc."
+    },
+    {
+        "Symbol": "RLD",
+        "Name": "RealD Inc"
+    },
+    {
+        "Symbol": "RNWK",
+        "Name": "RealNetworks, Inc."
+    },
+    {
+        "Symbol": "RP",
+        "Name": "RealPage, Inc."
+    },
+    {
+        "Symbol": "RHT",
+        "Name": "Red Hat, Inc."
+    },
+    {
+        "Symbol": "RWC",
+        "Name": "RELM Wireless Corporation"
+    },
+    {
+        "Symbol": "SOL",
+        "Name": "Renesola Ltd."
+    },
+    {
+        "Symbol": "RENN",
+        "Name": "Renren Inc."
+    },
+    {
+        "Symbol": "RCII",
+        "Name": "Rent-A-Center Inc."
+    },
+    {
+        "Symbol": "RESN",
+        "Name": "Resonant Inc."
+    },
+    {
+        "Symbol": "RXN",
+        "Name": "Rexnord Corporation"
+    },
+    {
+        "Symbol": "RNG",
+        "Name": "Ringcentral, Inc."
+    },
+    {
+        "Symbol": "RHI",
+        "Name": "Robert Half International Inc."
+    },
+    {
+        "Symbol": "FUEL",
+        "Name": "Rocket Fuel Inc."
+    },
+    {
+        "Symbol": "RST",
+        "Name": "Rosetta Stone"
+    },
+    {
+        "Symbol": "RBCN",
+        "Name": "Rubicon Technology, Inc."
+    },
+    {
+        "Symbol": "RKUS",
+        "Name": "Ruckus Wireless, Inc."
+    },
+    {
+        "Symbol": "SABR",
+        "Name": "Sabre Corporation"
+    },
+    {
+        "Symbol": "CRM",
+        "Name": "Salesforce.com Inc"
+    },
+    {
+        "Symbol": "SNDK",
+        "Name": "SanDisk Corporation"
+    },
+    {
+        "Symbol": "SANM",
+        "Name": "Sanmina Corporation"
+    },
+    {
+        "Symbol": "SAP",
+        "Name": "SAP SE"
+    },
+    {
+        "Symbol": "SPNS",
+        "Name": "Sapiens International Corporation N.V."
+    },
+    {
+        "Symbol": "SCSC",
+        "Name": "ScanSource, Inc."
+    },
+    {
+        "Symbol": "SAIC",
+        "Name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION"
+    },
+    {
+        "Symbol": "SGMS",
+        "Name": "Scientific Games Corp"
+    },
+    {
+        "Symbol": "SQI",
+        "Name": "SciQuest, Inc."
+    },
+    {
+        "Symbol": "SEAC",
+        "Name": "SeaChange International, Inc."
+    },
+    {
+        "Symbol": "STX",
+        "Name": "Seagate Technology."
+    },
+    {
+        "Symbol": "SLTC",
+        "Name": "Selectica, Inc."
+    },
+    {
+        "Symbol": "SMI",
+        "Name": "Semiconductor  Manufacturing International Corporation"
+    },
+    {
+        "Symbol": "LEDS",
+        "Name": "SemiLEDS Corporation"
+    },
+    {
+        "Symbol": "SMTC",
+        "Name": "Semtech Corporation"
+    },
+    {
+        "Symbol": "SQNS",
+        "Name": "Sequans Communications S.A."
+    },
+    {
+        "Symbol": "NOW",
+        "Name": "ServiceNow, Inc."
+    },
+    {
+        "Symbol": "SGOC",
+        "Name": "SGOCO Group, Ltd"
+    },
+    {
+        "Symbol": "SHOP",
+        "Name": "Shopify Inc."
+    },
+    {
+        "Symbol": "SSTK",
+        "Name": "Shutterstock, Inc."
+    },
+    {
+        "Symbol": "SWIR",
+        "Name": "Sierra Wireless, Inc."
+    },
+    {
+        "Symbol": "SIFY",
+        "Name": "Sify Technologies Limited"
+    },
+    {
+        "Symbol": "SIGM",
+        "Name": "Sigma Designs, Inc."
+    },
+    {
+        "Symbol": "SGMA",
+        "Name": "SigmaTron International, Inc."
+    },
+    {
+        "Symbol": "SILC",
+        "Name": "Silicom Ltd"
+    },
+    {
+        "Symbol": "SGI",
+        "Name": "Silicon Graphics International Corp"
+    },
+    {
+        "Symbol": "SLAB",
+        "Name": "Silicon Laboratories, Inc."
+    },
+    {
+        "Symbol": "SIMO",
+        "Name": "Silicon Motion Technology Corporation"
+    },
+    {
+        "Symbol": "SPIL",
+        "Name": "Siliconware Precision Industries Company, Ltd."
+    },
+    {
+        "Symbol": "SSNI",
+        "Name": "Silver Spring Networks, Inc."
+    },
+    {
+        "Symbol": "SLP",
+        "Name": "Simulations Plus, Inc."
+    },
+    {
+        "Symbol": "SINA",
+        "Name": "Sina Corporation"
+    },
+    {
+        "Symbol": "MOBI",
+        "Name": "Sky-mobi Limited"
+    },
+    {
+        "Symbol": "SWKS",
+        "Name": "Skyworks Solutions, Inc."
+    },
+    {
+        "Symbol": "SMT",
+        "Name": "SMART Technologies Inc."
+    },
+    {
+        "Symbol": "SMSI",
+        "Name": "Smith Micro Software, Inc."
+    },
+    {
+        "Symbol": "SMTX",
+        "Name": "SMTC Corporation"
+    },
+    {
+        "Symbol": "SMTP",
+        "Name": "SMTP, Inc."
+    },
+    {
+        "Symbol": "SOHU",
+        "Name": "Sohu.com Inc."
+    },
+    {
+        "Symbol": "SEDG",
+        "Name": "SolarEdge Technologies, Inc."
+    },
+    {
+        "Symbol": "SWI",
+        "Name": "Solarwinds, Inc."
+    },
+    {
+        "Symbol": "SLH",
+        "Name": "Solera Holdings, Inc."
+    },
+    {
+        "Symbol": "SOFO",
+        "Name": "Sonic Foundry, Inc."
+    },
+    {
+        "Symbol": "SONS",
+        "Name": "Sonus Networks, Inc."
+    },
+    {
+        "Symbol": "SFUN",
+        "Name": "SouFun Holdings Limited"
+    },
+    {
+        "Symbol": "SPA",
+        "Name": "Sparton Corporation"
+    },
+    {
+        "Symbol": "SPDC",
+        "Name": "Speed Commerce, Inc."
+    },
+    {
+        "Symbol": "ANY",
+        "Name": "Sphere 3D Corp."
+    },
+    {
+        "Symbol": "SPLK",
+        "Name": "Splunk Inc."
+    },
+    {
+        "Symbol": "SPSC",
+        "Name": "SPS Commerce, Inc."
+    },
+    {
+        "Symbol": "SPW",
+        "Name": "SPX Corporation"
+    },
+    {
+        "Symbol": "SSNC",
+        "Name": "SS&C Technologies Holdings, Inc."
+    },
+    {
+        "Symbol": "SXI",
+        "Name": "Standex International Corporation"
+    },
+    {
+        "Symbol": "SRT",
+        "Name": "StarTek, Inc."
+    },
+    {
+        "Symbol": "STM",
+        "Name": "STMicroelectronics N.V."
+    },
+    {
+        "Symbol": "SSYS",
+        "Name": "Stratasys, Ltd."
+    },
+    {
+        "Symbol": "STRM",
+        "Name": "Streamline Health Solutions, Inc."
+    },
+    {
+        "Symbol": "SEMI",
+        "Name": "SunEdison Semiconductor Limited"
+    },
+    {
+        "Symbol": "SUNE",
+        "Name": "SunEdison, Inc."
+    },
+    {
+        "Symbol": "GOMO",
+        "Name": "Sungy Mobile Limited"
+    },
+    {
+        "Symbol": "SPWR",
+        "Name": "SunPower Corporation"
+    },
+    {
+        "Symbol": "SMCI",
+        "Name": "Super Micro Computer, Inc."
+    },
+    {
+        "Symbol": "SPCB",
+        "Name": "SuperCom, Ltd."
+    },
+    {
+        "Symbol": "SCON",
+        "Name": "Superconductor Technologies Inc."
+    },
+    {
+        "Symbol": "SPRT",
+        "Name": "support.com, Inc."
+    },
+    {
+        "Symbol": "SYKE",
+        "Name": "Sykes Enterprises, Incorporated"
+    },
+    {
+        "Symbol": "SYMC",
+        "Name": "Symantec Corporation"
+    },
+    {
+        "Symbol": "SYNC",
+        "Name": "Synacor, Inc."
+    },
+    {
+        "Symbol": "SYNA",
+        "Name": "Synaptics Incorporated"
+    },
+    {
+        "Symbol": "SNCR",
+        "Name": "Synchronoss Technologies, Inc."
+    },
+    {
+        "Symbol": "SNX",
+        "Name": "Synnex Corporation"
+    },
+    {
+        "Symbol": "SNPS",
+        "Name": "Synopsys, Inc."
+    },
+    {
+        "Symbol": "SYNT",
+        "Name": "Syntel, Inc."
+    },
+    {
+        "Symbol": "SYRX",
+        "Name": "Sysorex Global Holding Corp."
+    },
+    {
+        "Symbol": "DATA",
+        "Name": "Tableau Software, Inc."
+    },
+    {
+        "Symbol": "TSM",
+        "Name": "Taiwan Semiconductor Manufacturing Company Ltd."
+    },
+    {
+        "Symbol": "TTWO",
+        "Name": "Take-Two Interactive Software, Inc."
+    },
+    {
+        "Symbol": "TAL",
+        "Name": "TAL International Group, Inc."
+    },
+    {
+        "Symbol": "TNGO",
+        "Name": "Tangoe, Inc."
+    },
+    {
+        "Symbol": "TMH",
+        "Name": "Team Health Holdings, Inc."
+    },
+    {
+        "Symbol": "TECD",
+        "Name": "Tech Data Corporation"
+    },
+    {
+        "Symbol": "TCCO",
+        "Name": "Technical Communications Corporation"
+    },
+    {
+        "Symbol": "TSYS",
+        "Name": "TeleCommunication Systems, Inc."
+    },
+    {
+        "Symbol": "TTEC",
+        "Name": "TeleTech Holdings, Inc."
+    },
+    {
+        "Symbol": "TNC",
+        "Name": "Tennant Company"
+    },
+    {
+        "Symbol": "TDC",
+        "Name": "Teradata Corporation"
+    },
+    {
+        "Symbol": "TSRA",
+        "Name": "Tessera Technologies, Inc."
+    },
+    {
+        "Symbol": "TXN",
+        "Name": "Texas Instruments Incorporated"
+    },
+    {
+        "Symbol": "TGH",
+        "Name": "Textainer Group Holdings Limited"
+    },
+    {
+        "Symbol": "TXTR",
+        "Name": "Textura Corporation"
+    },
+    {
+        "Symbol": "DSGX",
+        "Name": "The Descartes Systems Group Inc."
+    },
+    {
+        "Symbol": "KEYW",
+        "Name": "The KEYW Holding Corporation"
+    },
+    {
+        "Symbol": "MIDD",
+        "Name": "The Middleby Corporation"
+    },
+    {
+        "Symbol": "RUBI",
+        "Name": "The Rubicon Project, Inc."
+    },
+    {
+        "Symbol": "ULTI",
+        "Name": "The Ultimate Software Group, Inc."
+    },
+    {
+        "Symbol": "TIGR",
+        "Name": "TigerLogic Corporation"
+    },
+    {
+        "Symbol": "TISA",
+        "Name": "Top Image Systems, Ltd."
+    },
+    {
+        "Symbol": "TSEM",
+        "Name": "Tower Semiconductor Ltd."
+    },
+    {
+        "Symbol": "TACT",
+        "Name": "TransAct Technologies Incorporated"
+    },
+    {
+        "Symbol": "TZOO",
+        "Name": "Travelzoo Inc."
+    },
+    {
+        "Symbol": "TRMR",
+        "Name": "Tremor Video, Inc."
+    },
+    {
+        "Symbol": "TSL",
+        "Name": "Trina Solar Limited"
+    },
+    {
+        "Symbol": "TRT",
+        "Name": "Trio-Tech International"
+    },
+    {
+        "Symbol": "TRIP",
+        "Name": "TripAdvisor, Inc."
+    },
+    {
+        "Symbol": "TBI",
+        "Name": "TrueBlue, Inc."
+    },
+    {
+        "Symbol": "TRUE",
+        "Name": "TrueCar, Inc."
+    },
+    {
+        "Symbol": "TSRI",
+        "Name": "TSR, Inc."
+    },
+    {
+        "Symbol": "TTMI",
+        "Name": "TTM Technologies, Inc."
+    },
+    {
+        "Symbol": "TUBE",
+        "Name": "TubeMogul, Inc."
+    },
+    {
+        "Symbol": "TCX",
+        "Name": "Tucows Inc."
+    },
+    {
+        "Symbol": "TWIN",
+        "Name": "Twin Disc, Incorporated"
+    },
+    {
+        "Symbol": "TWTR",
+        "Name": "Twitter, Inc."
+    },
+    {
+        "Symbol": "TYL",
+        "Name": "Tyler Technologies, Inc."
+    },
+    {
+        "Symbol": "UBIC",
+        "Name": "UBIC, Inc."
+    },
+    {
+        "Symbol": "UBNT",
+        "Name": "Ubiquiti Networks, Inc."
+    },
+    {
+        "Symbol": "UCTT",
+        "Name": "Ultra Clean Holdings, Inc."
+    },
+    {
+        "Symbol": "UTEK",
+        "Name": "Ultratech, Inc."
+    },
+    {
+        "Symbol": "UIS",
+        "Name": "Unisys Corporation"
+    },
+    {
+        "Symbol": "UMC",
+        "Name": "United Microelectronics Corporation"
+    },
+    {
+        "Symbol": "UNTD",
+        "Name": "United Online, Inc."
+    },
+    {
+        "Symbol": "URI",
+        "Name": "United Rentals, Inc."
+    },
+    {
+        "Symbol": "UPIP",
+        "Name": "Unwired Planet, Inc."
+    },
+    {
+        "Symbol": "UPLD",
+        "Name": "Upland Software, Inc."
+    },
+    {
+        "Symbol": "VRNS",
+        "Name": "Varonis Systems, Inc."
+    },
+    {
+        "Symbol": "VDSI",
+        "Name": "VASCO Data Security International, Inc."
+    },
+    {
+        "Symbol": "VECO",
+        "Name": "Veeco Instruments Inc."
+    },
+    {
+        "Symbol": "VEEV",
+        "Name": "Veeva Systems Inc."
+    },
+    {
+        "Symbol": "VRNT",
+        "Name": "Verint Systems Inc."
+    },
+    {
+        "Symbol": "VRSN",
+        "Name": "VeriSign, Inc."
+    },
+    {
+        "Symbol": "VRSK",
+        "Name": "Verisk Analytics, Inc."
+    },
+    {
+        "Symbol": "VSAT",
+        "Name": "ViaSat, Inc."
+    },
+    {
+        "Symbol": "VIAV",
+        "Name": "Viavi Solutions Inc."
+    },
+    {
+        "Symbol": "VGGL",
+        "Name": "Viggle Inc."
+    },
+    {
+        "Symbol": "VIMC",
+        "Name": "Vimicro International Corporation"
+    },
+    {
+        "Symbol": "VMEM",
+        "Name": "Violin Memory, Inc."
+    },
+    {
+        "Symbol": "VRTU",
+        "Name": "Virtusa Corporation"
+    },
+    {
+        "Symbol": "VISN",
+        "Name": "VisionChina Media, Inc."
+    },
+    {
+        "Symbol": "VMW",
+        "Name": "Vmware, Inc."
+    },
+    {
+        "Symbol": "VISI",
+        "Name": "Volt Information Sciences, Inc."
+    },
+    {
+        "Symbol": "VUZI",
+        "Name": "Vuzix Corporation"
+    },
+    {
+        "Symbol": "WAVX",
+        "Name": "Wave Systems Corp."
+    },
+    {
+        "Symbol": "WSTG",
+        "Name": "Wayside Technology Group, Inc."
+    },
+    {
+        "Symbol": "WWWW",
+        "Name": "Web.com Group, Inc."
+    },
+    {
+        "Symbol": "WB",
+        "Name": "Weibo Corporation"
+    },
+    {
+        "Symbol": "WDC",
+        "Name": "Western Digital Corporation"
+    },
+    {
+        "Symbol": "WYY",
+        "Name": "WidePoint Corporation"
+    },
+    {
+        "Symbol": "WIT",
+        "Name": "Wipro Limited"
+    },
+    {
+        "Symbol": "WIX",
+        "Name": "Wix.com Ltd."
+    },
+    {
+        "Symbol": "WDAY",
+        "Name": "Workday, Inc."
+    },
+    {
+        "Symbol": "WK",
+        "Name": "Workiva Inc."
+    },
+    {
+        "Symbol": "WOWO",
+        "Name": "Wowo Limited"
+    },
+    {
+        "Symbol": "WPPGY",
+        "Name": "WPP plc"
+    },
+    {
+        "Symbol": "WSCI",
+        "Name": "WSI Industries Inc."
+    },
+    {
+        "Symbol": "XTLY",
+        "Name": "Xactly Corporation"
+    },
+    {
+        "Symbol": "XLNX",
+        "Name": "Xilinx, Inc."
+    },
+    {
+        "Symbol": "XPLR",
+        "Name": "Xplore Technologies Corp"
+    },
+    {
+        "Symbol": "XNET",
+        "Name": "Xunlei Limited"
+    },
+    {
+        "Symbol": "YHOO",
+        "Name": "Yahoo! Inc."
+    },
+    {
+        "Symbol": "YNDX",
+        "Name": "Yandex N.V."
+    },
+    {
+        "Symbol": "YGE",
+        "Name": "Yingli Green Energy Holding Company Limited"
+    },
+    {
+        "Symbol": "YDLE",
+        "Name": "Yodlee, Inc."
+    },
+    {
+        "Symbol": "YOKU",
+        "Name": "Youku Tudou Inc."
+    },
+    {
+        "Symbol": "YUME",
+        "Name": "YuMe, Inc."
+    },
+    {
+        "Symbol": "YY",
+        "Name": "YY Inc."
+    },
+    {
+        "Symbol": "ZBRA",
+        "Name": "Zebra Technologies Corporation"
+    },
+    {
+        "Symbol": "ZEN",
+        "Name": "Zendesk, Inc."
+    },
+    {
+        "Symbol": "ZPIN",
+        "Name": "Zhaopin Limited"
+    },
+    {
+        "Symbol": "ZIXI",
+        "Name": "Zix Corporation"
+    },
+    {
+        "Symbol": "ZNGA",
+        "Name": "Zynga Inc."
+    }
+]

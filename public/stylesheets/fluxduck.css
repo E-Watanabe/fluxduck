@@ -1,0 +1,122 @@
+
+body{
+	background-color:#7F00FF;
+}
+
+
+#title{
+
+	text-align:center;
+	font-family:Oswald;
+	margin-bottom:2em;
+	margin-top:2em;
+}
+
+#sub{
+	text-align:center;
+	font-family:Oswald;
+	margin-bottom:2em;
+	margin-top:2em;
+}
+
+hr{
+	color:black;
+}
+
+form{
+	display:-webkit-flex;
+	display:flex;
+	-webkit-flex-direction:row;
+	flex-direction:row;
+	-webkit-justify-content:center;
+	justify-content:center;
+	-webkit-align-items:center;
+	align-items:center;
+	-webkit-align-content:center;
+	align-content:center;
+	margin-top:2em;
+
+}
+
+p{
+	margin:0;
+	padding:0;
+}
+
+#bar{
+	width:40em;
+	padding:0;
+	height:2em;
+	
+}
+
+
+#glass{
+	
+	padding:0;
+	margin:0;
+	width:2em;
+	height:1.8em;
+}
+
+#spacer{
+	clear:both;
+	background-color:green;
+}
+
+ol{
+	 display:-webkit-flex;
+	display:flex;
+	-webkit-flex-direction:column;
+	flex-direction:column;
+	-webkit-justify-content:space-around;
+	justify-content:space-around;
+	-webkit-align-items:center;
+	align-items:center;
+	-webkit-align-content:center;
+	align-content:center;
+	font-weight:bold;
+}
+
+li{
+	list-style-position: inside;
+	background-color:white;
+	margin:0 auto;
+	border:solid 1px;
+	border-radius:.5em;
+	width:80%;
+	margin:1em;
+	text-align:center; 
+	
+
+}
+
+li span{
+	
+	font-weight:normal;
+}
+
+li:hover{
+	background-color:#cccccc;
+}
+
+
+.flex{
+	border-radius:.5em;
+	margin:0;
+}
+
+
+.list{
+	font-family:Fjalla One;
+	margin:.2em;
+}
+
+
+
+.hide{
+	border-radius:.5em;
+	font-family:Open Sans Condensed;
+}
+
+

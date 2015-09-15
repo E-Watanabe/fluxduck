@@ -1,0 +1,3305 @@
+[
+    {
+        "Company": "ACN",
+        " Value": "1"
+    },
+    {
+        "Company": "AEO",
+        " Value": "1"
+    },
+    {
+        "Company": "AET",
+        " Value": "1"
+    },
+    {
+        "Company": "ALL",
+        " Value": "1"
+    },
+    {
+        "Company": "AN",
+        " Value": "1"
+    },
+    {
+        "Company": "APP",
+        " Value": "1"
+    },
+    {
+        "Company": "ASOMF",
+        " Value": "1"
+    },
+    {
+        "Company": "ATVI",
+        " Value": "1"
+    },
+    {
+        "Company": "BACHF",
+        " Value": "1"
+    },
+    {
+        "Company": "BIIB",
+        " Value": "1"
+    },
+    {
+        "Company": "BKX",
+        " Value": "1"
+    },
+    {
+        "Company": "BNK",
+        " Value": "1"
+    },
+    {
+        "Company": "BREW",
+        " Value": "1"
+    },
+    {
+        "Company": "BRGYY",
+        " Value": "1"
+    },
+    {
+        "Company": "CAKE",
+        " Value": "1"
+    },
+    {
+        "Company": "CAM",
+        " Value": "1"
+    },
+    {
+        "Company": "CAMP",
+        " Value": "1"
+    },
+    {
+        "Company": "CEA",
+        " Value": "1"
+    },
+    {
+        "Company": "CELG",
+        " Value": "1"
+    },
+    {
+        "Company": "CHL",
+        " Value": "1"
+    },
+    {
+        "Company": "CHU",
+        " Value": "1"
+    },
+    {
+        "Company": "CHUY",
+        " Value": "1"
+    },
+    {
+        "Company": "CI",
+        " Value": "1"
+    },
+    {
+        "Company": "CNI",
+        " Value": "1"
+    },
+    {
+        "Company": "CPYYF",
+        " Value": "1"
+    },
+    {
+        "Company": "CSX",
+        " Value": "1"
+    },
+    {
+        "Company": "CTSH",
+        " Value": "1"
+    },
+    {
+        "Company": "CYNK",
+        " Value": "1"
+    },
+    {
+        "Company": "DAVE",
+        " Value": "1"
+    },
+    {
+        "Company": "DBD",
+        " Value": "1"
+    },
+    {
+        "Company": "DLAKF",
+        " Value": "1"
+    },
+    {
+        "Company": "DOW",
+        " Value": "1"
+    },
+    {
+        "Company": "DSUM",
+        " Value": "1"
+    },
+    {
+        "Company": "DSUM",
+        " Value": "1"
+    },
+    {
+        "Company": "DTEA",
+        " Value": "1"
+    },
+    {
+        "Company": "DVA",
+        " Value": "1"
+    },
+    {
+        "Company": "EEM",
+        " Value": "1"
+    },
+    {
+        "Company": "ELY",
+        " Value": "1"
+    },
+    {
+        "Company": "ESS",
+        " Value": "1"
+    },
+    {
+        "Company": "EXPE",
+        " Value": "1"
+    },
+    {
+        "Company": "EXPR",
+        " Value": "1"
+    },
+    {
+        "Company": "FBP",
+        " Value": "1"
+    },
+    {
+        "Company": "FBT",
+        " Value": "1"
+    },
+    {
+        "Company": "FIADF",
+        " Value": "1"
+    },
+    {
+        "Company": "FIBK",
+        " Value": "1"
+    },
+    {
+        "Company": "FIG",
+        " Value": "1"
+    },
+    {
+        "Company": "FRCOF",
+        " Value": "1"
+    },
+    {
+        "Company": "FTI",
+        " Value": "1"
+    },
+    {
+        "Company": "FXI",
+        " Value": "1"
+    },
+    {
+        "Company": "GBNK",
+        " Value": "1"
+    },
+    {
+        "Company": "GDX",
+        " Value": "1"
+    },
+    {
+        "Company": "H",
+        " Value": "1"
+    },
+    {
+        "Company": "HCA",
+        " Value": "1"
+    },
+    {
+        "Company": "HCN",
+        " Value": "1"
+    },
+    {
+        "Company": "HESAF",
+        " Value": "1"
+    },
+    {
+        "Company": "HMIN",
+        " Value": "1"
+    },
+    {
+        "Company": "HMRZF",
+        " Value": "1"
+    },
+    {
+        "Company": "HNNMY",
+        " Value": "1"
+    },
+    {
+        "Company": "HON",
+        " Value": "1"
+    },
+    {
+        "Company": "HOTR",
+        " Value": "1"
+    },
+    {
+        "Company": "HUM",
+        " Value": "1"
+    },
+    {
+        "Company": "ICON",
+        " Value": "1"
+    },
+    {
+        "Company": "IHG",
+        " Value": "1"
+    },
+    {
+        "Company": "INGVF",
+        " Value": "1"
+    },
+    {
+        "Company": "IVV",
+        " Value": "1"
+    },
+    {
+        "Company": "JETS",
+        " Value": "1"
+    },
+    {
+        "Company": "K",
+        " Value": "1"
+    },
+    {
+        "Company": "KFT",
+        " Value": "1"
+    },
+    {
+        "Company": "KING",
+        " Value": "1"
+    },
+    {
+        "Company": "KKD",
+        " Value": "1"
+    },
+    {
+        "Company": "KR",
+        " Value": "1"
+    },
+    {
+        "Company": "KSU",
+        " Value": "1"
+    },
+    {
+        "Company": "KWT",
+        " Value": "1"
+    },
+    {
+        "Company": "KZ",
+        " Value": "1"
+    },
+    {
+        "Company": "LEAP",
+        " Value": "1"
+    },
+    {
+        "Company": "LEJU",
+        " Value": "1"
+    },
+    {
+        "Company": "LPL",
+        " Value": "1"
+    },
+    {
+        "Company": "LTD",
+        " Value": "1"
+    },
+    {
+        "Company": "LULU",
+        " Value": "1"
+    },
+    {
+        "Company": "LYB",
+        " Value": "1"
+    },
+    {
+        "Company": "LYG",
+        " Value": "1"
+    },
+    {
+        "Company": "MBT",
+        " Value": "1"
+    },
+    {
+        "Company": "MKC",
+        " Value": "1"
+    },
+    {
+        "Company": "MNST",
+        " Value": "1"
+    },
+    {
+        "Company": "MOMO",
+        " Value": "1"
+    },
+    {
+        "Company": "MON",
+        " Value": "1"
+    },
+    {
+        "Company": "MSBHF",
+        " Value": "1"
+    },
+    {
+        "Company": "MSI",
+        " Value": "1"
+    },
+    {
+        "Company": "NBHC",
+        " Value": "1"
+    },
+    {
+        "Company": "NGG",
+        " Value": "1"
+    },
+    {
+        "Company": "NILE",
+        " Value": "1"
+    },
+    {
+        "Company": "NINOY",
+        " Value": "1"
+    },
+    {
+        "Company": "NQ",
+        " Value": "1"
+    },
+    {
+        "Company": "NSC",
+        " Value": "1"
+    },
+    {
+        "Company": "NWSA",
+        " Value": "1"
+    },
+    {
+        "Company": "O",
+        " Value": "1"
+    },
+    {
+        "Company": "OPEN",
+        " Value": "1"
+    },
+    {
+        "Company": "PB",
+        " Value": "1"
+    },
+    {
+        "Company": "PCP",
+        " Value": "1"
+    },
+    {
+        "Company": "PEK",
+        " Value": "1"
+    },
+    {
+        "Company": "PKT",
+        " Value": "1"
+    },
+    {
+        "Company": "PRDSY",
+        " Value": "1"
+    },
+    {
+        "Company": "PWESF",
+        " Value": "1"
+    },
+    {
+        "Company": "QIHU",
+        " Value": "1"
+    },
+    {
+        "Company": "RENT",
+        " Value": "1"
+    },
+    {
+        "Company": "RGR",
+        " Value": "1"
+    },
+    {
+        "Company": "RKUNF",
+        " Value": "1"
+    },
+    {
+        "Company": "RNLSY",
+        " Value": "1"
+    },
+    {
+        "Company": "RYAAY",
+        " Value": "1"
+    },
+    {
+        "Company": "SAM",
+        " Value": "1"
+    },
+    {
+        "Company": "SBGI",
+        " Value": "1"
+    },
+    {
+        "Company": "SENSEX",
+        " Value": "1"
+    },
+    {
+        "Company": "SFM",
+        " Value": "1"
+    },
+    {
+        "Company": "SHI",
+        " Value": "1"
+    },
+    {
+        "Company": "SIG",
+        " Value": "1"
+    },
+    {
+        "Company": "SINA",
+        " Value": "1"
+    },
+    {
+        "Company": "SPG",
+        " Value": "1"
+    },
+    {
+        "Company": "SPWR",
+        " Value": "1"
+    },
+    {
+        "Company": "SPXU",
+        " Value": "1"
+    },
+    {
+        "Company": "STI",
+        " Value": "1"
+    },
+    {
+        "Company": "STT",
+        " Value": "1"
+    },
+    {
+        "Company": "SXXL",
+        " Value": "1"
+    },
+    {
+        "Company": "SYY",
+        " Value": "1"
+    },
+    {
+        "Company": "SZKMF",
+        " Value": "1"
+    },
+    {
+        "Company": "TAN",
+        " Value": "1"
+    },
+    {
+        "Company": "TFM",
+        " Value": "1"
+    },
+    {
+        "Company": "THC",
+        " Value": "1"
+    },
+    {
+        "Company": "TOL",
+        " Value": "1"
+    },
+    {
+        "Company": "TRBAA",
+        " Value": "1"
+    },
+    {
+        "Company": "TRV",
+        " Value": "1"
+    },
+    {
+        "Company": "TSCO",
+        " Value": "1"
+    },
+    {
+        "Company": "UHS",
+        " Value": "1"
+    },
+    {
+        "Company": "USM",
+        " Value": "1"
+    },
+    {
+        "Company": "VGR",
+        " Value": "1"
+    },
+    {
+        "Company": "VIP",
+        " Value": "1"
+    },
+    {
+        "Company": "VLO",
+        " Value": "1"
+    },
+    {
+        "Company": "VOO",
+        " Value": "1"
+    },
+    {
+        "Company": "VTR",
+        " Value": "1"
+    },
+    {
+        "Company": "WGO",
+        " Value": "1"
+    },
+    {
+        "Company": "WHR",
+        " Value": "1"
+    },
+    {
+        "Company": "WPO",
+        " Value": "1"
+    },
+    {
+        "Company": "WUBA",
+        " Value": "1"
+    },
+    {
+        "Company": "WWAV",
+        " Value": "1"
+    },
+    {
+        "Company": "ZION",
+        " Value": "1"
+    },
+    {
+        "Company": "ZNH",
+        " Value": "1"
+    },
+    {
+        "Company": "DVN",
+        " Value": "0.9333334"
+    },
+    {
+        "Company": "STZ",
+        " Value": "0.9295775"
+    },
+    {
+        "Company": "SPY",
+        " Value": "0.925925889"
+    },
+    {
+        "Company": "KBH",
+        " Value": "0.903846"
+    },
+    {
+        "Company": "BURBY",
+        " Value": "0.9"
+    },
+    {
+        "Company": "SNI",
+        " Value": "0.9"
+    },
+    {
+        "Company": "EOG",
+        " Value": "0.888889"
+    },
+    {
+        "Company": "PCS",
+        " Value": "0.888889"
+    },
+    {
+        "Company": "VLKAY",
+        " Value": "0.857142857"
+    },
+    {
+        "Company": "BWLD",
+        " Value": "0.84375"
+    },
+    {
+        "Company": "WLL",
+        " Value": "0.8333335"
+    },
+    {
+        "Company": "HOV",
+        " Value": "0.807692"
+    },
+    {
+        "Company": "PDRDF",
+        " Value": "0.803922"
+    },
+    {
+        "Company": "BAMXF",
+        " Value": "0.8"
+    },
+    {
+        "Company": "GPS",
+        " Value": "0.79292925"
+    },
+    {
+        "Company": "JACK",
+        " Value": "0.791666667"
+    },
+    {
+        "Company": "IBB",
+        " Value": "0.784946333"
+    },
+    {
+        "Company": "KATE",
+        " Value": "0.784946"
+    },
+    {
+        "Company": "MAR",
+        " Value": "0.777778"
+    },
+    {
+        "Company": "SAVE",
+        " Value": "0.777778"
+    },
+    {
+        "Company": "SJM",
+        " Value": "0.77272725"
+    },
+    {
+        "Company": "SODA",
+        " Value": "0.77272725"
+    },
+    {
+        "Company": "BIDU",
+        " Value": "0.769230769"
+    },
+    {
+        "Company": "BKS",
+        " Value": "0.761905"
+    },
+    {
+        "Company": "JD",
+        " Value": "0.760737667"
+    },
+    {
+        "Company": "AUDVF",
+        " Value": "0.756098"
+    },
+    {
+        "Company": "POAHY",
+        " Value": "0.756098"
+    },
+    {
+        "Company": "BRHYX",
+        " Value": "0.75"
+    },
+    {
+        "Company": "BURL",
+        " Value": "0.75"
+    },
+    {
+        "Company": "DHX",
+        " Value": "0.75"
+    },
+    {
+        "Company": "GAS",
+        " Value": "0.75"
+    },
+    {
+        "Company": "GCI",
+        " Value": "0.75"
+    },
+    {
+        "Company": "GOOAV",
+        " Value": "0.75"
+    },
+    {
+        "Company": "HABT",
+        " Value": "0.75"
+    },
+    {
+        "Company": "MIK",
+        " Value": "0.75"
+    },
+    {
+        "Company": "MPC",
+        " Value": "0.75"
+    },
+    {
+        "Company": "TCEHY",
+        " Value": "0.75"
+    },
+    {
+        "Company": "BBY",
+        " Value": "0.733147737"
+    },
+    {
+        "Company": "UNP",
+        " Value": "0.727272727"
+    },
+    {
+        "Company": "PZZA",
+        " Value": "0.7229438"
+    },
+    {
+        "Company": "BFA",
+        " Value": "0.714286"
+    },
+    {
+        "Company": "DDAIF",
+        " Value": "0.714285714"
+    },
+    {
+        "Company": "KRFT",
+        " Value": "0.713804778"
+    },
+    {
+        "Company": "PHM",
+        " Value": "0.713675"
+    },
+    {
+        "Company": "AHBIF",
+        " Value": "0.69207325"
+    },
+    {
+        "Company": "LOW",
+        " Value": "0.681096667"
+    },
+    {
+        "Company": "CLWR",
+        " Value": "0.6774195"
+    },
+    {
+        "Company": "DWA",
+        " Value": "0.6774195"
+    },
+    {
+        "Company": "UA",
+        " Value": "0.668387167"
+    },
+    {
+        "Company": "AON",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "DIA",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "DSW",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "EGN",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "FOSL",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "GEGYF",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "IBOC",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "MAT",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "MOV",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "PTR",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "SCOR",
+        " Value": "0.666667"
+    },
+    {
+        "Company": "BK",
+        " Value": "0.666666667"
+    },
+    {
+        "Company": "HP",
+        " Value": "0.666666667"
+    },
+    {
+        "Company": "HYMLF",
+        " Value": "0.666666667"
+    },
+    {
+        "Company": "LB",
+        " Value": "0.666666667"
+    },
+    {
+        "Company": "DE",
+        " Value": "0.6666666"
+    },
+    {
+        "Company": "LEN",
+        " Value": "0.6663004"
+    },
+    {
+        "Company": "BRKB",
+        " Value": "0.665885389"
+    },
+    {
+        "Company": "DISH",
+        " Value": "0.656380286"
+    },
+    {
+        "Company": "SSNLF",
+        " Value": "0.651515125"
+    },
+    {
+        "Company": "AMGN",
+        " Value": "0.6461538"
+    },
+    {
+        "Company": "YELP",
+        " Value": "0.642857143"
+    },
+    {
+        "Company": "ETSY",
+        " Value": "0.639954"
+    },
+    {
+        "Company": "USB",
+        " Value": "0.6271604"
+    },
+    {
+        "Company": "SWGAY",
+        " Value": "0.62500025"
+    },
+    {
+        "Company": "CHTR",
+        " Value": "0.625"
+    },
+    {
+        "Company": "VOD",
+        " Value": "0.625"
+    },
+    {
+        "Company": "GILD",
+        " Value": "0.622710615"
+    },
+    {
+        "Company": "MDLZ",
+        " Value": "0.619048"
+    },
+    {
+        "Company": "NKE",
+        " Value": "0.611989364"
+    },
+    {
+        "Company": "CPB",
+        " Value": "0.611111"
+    },
+    {
+        "Company": "HSY",
+        " Value": "0.608024667"
+    },
+    {
+        "Company": "UPS",
+        " Value": "0.606802857"
+    },
+    {
+        "Company": "GDDY",
+        " Value": "0.6067825"
+    },
+    {
+        "Company": "SONC",
+        " Value": "0.605655"
+    },
+    {
+        "Company": "AMTD",
+        " Value": "0.604762"
+    },
+    {
+        "Company": "BUD",
+        " Value": "0.603815941"
+    },
+    {
+        "Company": "SBUX",
+        " Value": "0.603322279"
+    },
+    {
+        "Company": "DJT",
+        " Value": "0.6"
+    },
+    {
+        "Company": "IKTSF",
+        " Value": "0.6"
+    },
+    {
+        "Company": "PEUGF",
+        " Value": "0.6"
+    },
+    {
+        "Company": "ARO",
+        " Value": "0.599206333"
+    },
+    {
+        "Company": "WB",
+        " Value": "0.596774143"
+    },
+    {
+        "Company": "PNRA",
+        " Value": "0.595238333"
+    },
+    {
+        "Company": "DTV",
+        " Value": "0.587015679"
+    },
+    {
+        "Company": "TAP",
+        " Value": "0.585858667"
+    },
+    {
+        "Company": "LUV",
+        " Value": "0.579102235"
+    },
+    {
+        "Company": "FDX",
+        " Value": "0.572712263"
+    },
+    {
+        "Company": "DIN",
+        " Value": "0.571429"
+    },
+    {
+        "Company": "ADBE",
+        " Value": "0.570947556"
+    },
+    {
+        "Company": "CVC",
+        " Value": "0.565140667"
+    },
+    {
+        "Company": "SPLS",
+        " Value": "0.561111167"
+    },
+    {
+        "Company": "BAMXY",
+        " Value": "0.5571428"
+    },
+    {
+        "Company": "ETFC",
+        " Value": "0.555464154"
+    },
+    {
+        "Company": "ADRO",
+        " Value": "0.545455"
+    },
+    {
+        "Company": "APIC",
+        " Value": "0.545455"
+    },
+    {
+        "Company": "BBBY",
+        " Value": "0.545455"
+    },
+    {
+        "Company": "CBYL",
+        " Value": "0.545455"
+    },
+    {
+        "Company": "MET",
+        " Value": "0.5454545"
+    },
+    {
+        "Company": "FOXA",
+        " Value": "0.544456"
+    },
+    {
+        "Company": "DNKN",
+        " Value": "0.544354875"
+    },
+    {
+        "Company": "SHAK",
+        " Value": "0.542896154"
+    },
+    {
+        "Company": "WFM",
+        " Value": "0.541666667"
+    },
+    {
+        "Company": "AMZN",
+        " Value": "0.541044066"
+    },
+    {
+        "Company": "LVS",
+        " Value": "0.540719667"
+    },
+    {
+        "Company": "T",
+        " Value": "0.535480866"
+    },
+    {
+        "Company": "SWHC",
+        " Value": "0.534632"
+    },
+    {
+        "Company": "YUM",
+        " Value": "0.532012545"
+    },
+    {
+        "Company": "YHOO",
+        " Value": "0.525230328"
+    },
+    {
+        "Company": "BLPH",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "GT",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "HDGE",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "HLF",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "MXPT",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "ONCE",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "RRC",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "ZSAN",
+        " Value": "0.52381"
+    },
+    {
+        "Company": "BMY",
+        " Value": "0.5238095"
+    },
+    {
+        "Company": "FXCM",
+        " Value": "0.5238095"
+    },
+    {
+        "Company": "NSANF",
+        " Value": "0.52272725"
+    },
+    {
+        "Company": "CMCSA",
+        " Value": "0.521944512"
+    },
+    {
+        "Company": "FIT",
+        " Value": "0.516129"
+    },
+    {
+        "Company": "ANF",
+        " Value": "0.516129"
+    },
+    {
+        "Company": "XLE",
+        " Value": "0.51496675"
+    },
+    {
+        "Company": "PANW",
+        " Value": "0.5142858"
+    },
+    {
+        "Company": "HAIN",
+        " Value": "0.512195"
+    },
+    {
+        "Company": "ADP",
+        " Value": "0.5"
+    },
+    {
+        "Company": "ALIZF",
+        " Value": "0.5"
+    },
+    {
+        "Company": "ANTM",
+        " Value": "0.5"
+    },
+    {
+        "Company": "BCSB",
+        " Value": "0.5"
+    },
+    {
+        "Company": "BTSDF",
+        " Value": "0.5"
+    },
+    {
+        "Company": "CYH",
+        " Value": "0.5"
+    },
+    {
+        "Company": "DHI",
+        " Value": "0.5"
+    },
+    {
+        "Company": "DLAKY",
+        " Value": "0.5"
+    },
+    {
+        "Company": "ESRX",
+        " Value": "0.5"
+    },
+    {
+        "Company": "ETR",
+        " Value": "0.5"
+    },
+    {
+        "Company": "FCAM",
+        " Value": "0.5"
+    },
+    {
+        "Company": "FUEL",
+        " Value": "0.5"
+    },
+    {
+        "Company": "GGP",
+        " Value": "0.5"
+    },
+    {
+        "Company": "GMCR",
+        " Value": "0.5"
+    },
+    {
+        "Company": "HCTN",
+        " Value": "0.5"
+    },
+    {
+        "Company": "MPEL",
+        " Value": "0.5"
+    },
+    {
+        "Company": "MZDAF",
+        " Value": "0.5"
+    },
+    {
+        "Company": "NVDA",
+        " Value": "0.5"
+    },
+    {
+        "Company": "QQQ",
+        " Value": "0.5"
+    },
+    {
+        "Company": "RIMEX",
+        " Value": "0.5"
+    },
+    {
+        "Company": "TSM",
+        " Value": "0.5"
+    },
+    {
+        "Company": "WIN",
+        " Value": "0.5"
+    },
+    {
+        "Company": "WPPGY",
+        " Value": "0.5"
+    },
+    {
+        "Company": "ZOES",
+        " Value": "0.5"
+    },
+    {
+        "Company": "VLKAF",
+        " Value": "0.496954882"
+    },
+    {
+        "Company": "WEN",
+        " Value": "0.490025"
+    },
+    {
+        "Company": "SNE",
+        " Value": "0.489370818"
+    },
+    {
+        "Company": "QSR",
+        " Value": "0.488636333"
+    },
+    {
+        "Company": "JNJ",
+        " Value": "0.485474714"
+    },
+    {
+        "Company": "NOC",
+        " Value": "0.484432231"
+    },
+    {
+        "Company": "EBAY",
+        " Value": "0.481459293"
+    },
+    {
+        "Company": "NFLX",
+        " Value": "0.476118286"
+    },
+    {
+        "Company": "LGF",
+        " Value": "0.475073375"
+    },
+    {
+        "Company": "WYNN",
+        " Value": "0.473596375"
+    },
+    {
+        "Company": "ORCL",
+        " Value": "0.4725038"
+    },
+    {
+        "Company": "HD",
+        " Value": "0.467307867"
+    },
+    {
+        "Company": "VA",
+        " Value": "0.4666668"
+    },
+    {
+        "Company": "CS",
+        " Value": "0.466666667"
+    },
+    {
+        "Company": "GLW",
+        " Value": "0.465986714"
+    },
+    {
+        "Company": "NDAQ",
+        " Value": "0.4610655"
+    },
+    {
+        "Company": "TIF",
+        " Value": "0.459935923"
+    },
+    {
+        "Company": "WFC",
+        " Value": "0.458892267"
+    },
+    {
+        "Company": "BABA",
+        " Value": "0.456157913"
+    },
+    {
+        "Company": "GS",
+        " Value": "0.45614972"
+    },
+    {
+        "Company": "SCHW",
+        " Value": "0.454545455"
+    },
+    {
+        "Company": "AAPL",
+        " Value": "0.454530945"
+    },
+    {
+        "Company": "VZ",
+        " Value": "0.453142889"
+    },
+    {
+        "Company": "MS",
+        " Value": "0.451737792"
+    },
+    {
+        "Company": "TM",
+        " Value": "0.448785469"
+    },
+    {
+        "Company": "TMUS",
+        " Value": "0.448586524"
+    },
+    {
+        "Company": "RAD",
+        " Value": "0.444444667"
+    },
+    {
+        "Company": "FB",
+        " Value": "0.441935746"
+    },
+    {
+        "Company": "LVMHF",
+        " Value": "0.441558571"
+    },
+    {
+        "Company": "GM",
+        " Value": "0.44111506"
+    },
+    {
+        "Company": "TWTR",
+        " Value": "0.439528381"
+    },
+    {
+        "Company": "CMG",
+        " Value": "0.438478231"
+    },
+    {
+        "Company": "SIEGY",
+        " Value": "0.437788"
+    },
+    {
+        "Company": "HLT",
+        " Value": "0.4375"
+    },
+    {
+        "Company": "DFS",
+        " Value": "0.431818167"
+    },
+    {
+        "Company": "MSFT",
+        " Value": "0.430059521"
+    },
+    {
+        "Company": "CVS",
+        " Value": "0.428571429"
+    },
+    {
+        "Company": "MSFT",
+        " Value": "0.427009454"
+    },
+    {
+        "Company": "DIS",
+        " Value": "0.42468164"
+    },
+    {
+        "Company": "TWC",
+        " Value": "0.422277205"
+    },
+    {
+        "Company": "ADDDF",
+        " Value": "0.421198"
+    },
+    {
+        "Company": "BKW",
+        " Value": "0.419162"
+    },
+    {
+        "Company": "CEO",
+        " Value": "0.4181818"
+    },
+    {
+        "Company": "CG",
+        " Value": "0.416666667"
+    },
+    {
+        "Company": "KO",
+        " Value": "0.414906692"
+    },
+    {
+        "Company": "TSLA",
+        " Value": "0.412489207"
+    },
+    {
+        "Company": "KNBWY",
+        " Value": "0.411765"
+    },
+    {
+        "Company": "AXP",
+        " Value": "0.402370194"
+    },
+    {
+        "Company": "SBMRF",
+        " Value": "0.401137"
+    },
+    {
+        "Company": "TJX",
+        " Value": "0.39599"
+    },
+    {
+        "Company": "UAL",
+        " Value": "0.395231795"
+    },
+    {
+        "Company": "BBRYF",
+        " Value": "0.394265333"
+    },
+    {
+        "Company": "HES",
+        " Value": "0.393939429"
+    },
+    {
+        "Company": "GE",
+        " Value": "0.393020944"
+    },
+    {
+        "Company": "KSS",
+        " Value": "0.391668061"
+    },
+    {
+        "Company": "CSCO",
+        " Value": "0.390118977"
+    },
+    {
+        "Company": "OWW",
+        " Value": "0.388888667"
+    },
+    {
+        "Company": "F",
+        " Value": "0.384535"
+    },
+    {
+        "Company": "HPQ",
+        " Value": "0.377896588"
+    },
+    {
+        "Company": "S",
+        " Value": "0.377781897"
+    },
+    {
+        "Company": "DAL",
+        " Value": "0.376567522"
+    },
+    {
+        "Company": "JPM",
+        " Value": "0.376462206"
+    },
+    {
+        "Company": "CCL",
+        " Value": "0.375"
+    },
+    {
+        "Company": "DG",
+        " Value": "0.375"
+    },
+    {
+        "Company": "LIFE",
+        " Value": "0.375"
+    },
+    {
+        "Company": "MU",
+        " Value": "0.374657167"
+    },
+    {
+        "Company": "MMM",
+        " Value": "0.374389"
+    },
+    {
+        "Company": "PG",
+        " Value": "0.374015825"
+    },
+    {
+        "Company": "PCLN",
+        " Value": "0.373531286"
+    },
+    {
+        "Company": "WYN",
+        " Value": "0.372294429"
+    },
+    {
+        "Company": "WMT",
+        " Value": "0.371479508"
+    },
+    {
+        "Company": "COH",
+        " Value": "0.3712275"
+    },
+    {
+        "Company": "RDSA",
+        " Value": "0.368279581"
+    },
+    {
+        "Company": "ADDYY",
+        " Value": "0.356421333"
+    },
+    {
+        "Company": "DLPH",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "NDX",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "OSTK",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "PJP",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "SIAL",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "SLXP",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "XPH",
+        " Value": "0.354839"
+    },
+    {
+        "Company": "BAC",
+        " Value": "0.349260467"
+    },
+    {
+        "Company": "MJN",
+        " Value": "0.349206667"
+    },
+    {
+        "Company": "APOL",
+        " Value": "0.349206333"
+    },
+    {
+        "Company": "C",
+        " Value": "0.348100839"
+    },
+    {
+        "Company": "JWN",
+        " Value": "0.347287375"
+    },
+    {
+        "Company": "CVX",
+        " Value": "0.347062662"
+    },
+    {
+        "Company": "CCV",
+        " Value": "0.346646167"
+    },
+    {
+        "Company": "XOM",
+        " Value": "0.344015476"
+    },
+    {
+        "Company": "DISCA",
+        " Value": "0.343434333"
+    },
+    {
+        "Company": "RSH",
+        " Value": "0.3400562"
+    },
+    {
+        "Company": "KORS",
+        " Value": "0.339598273"
+    },
+    {
+        "Company": "SAP",
+        " Value": "0.3387095"
+    },
+    {
+        "Company": "CBS",
+        " Value": "0.337194935"
+    },
+    {
+        "Company": "INTC",
+        " Value": "0.334735143"
+    },
+    {
+        "Company": "SPLK",
+        " Value": "0.3333335"
+    },
+    {
+        "Company": "ALK",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "CCOI",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "CP",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "DIRV",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "NSANY",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "NVAX",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "SCBFF",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "SU",
+        " Value": "0.333333333"
+    },
+    {
+        "Company": "AMSIY",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "BRGYY",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "GRUB",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "HYG",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "KYO",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "MTH",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "POST",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "RYL",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "TIVO",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "TSO",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "YAHOF",
+        " Value": "0.333333"
+    },
+    {
+        "Company": "INTU",
+        " Value": "0.331085"
+    },
+    {
+        "Company": "PRDSF",
+        " Value": "0.329283571"
+    },
+    {
+        "Company": "BLK",
+        " Value": "0.3285609"
+    },
+    {
+        "Company": "EA",
+        " Value": "0.3277058"
+    },
+    {
+        "Company": "DKS",
+        " Value": "0.32380975"
+    },
+    {
+        "Company": "TGT",
+        " Value": "0.321230861"
+    },
+    {
+        "Company": "FOX",
+        " Value": "0.3208332"
+    },
+    {
+        "Company": "TGT",
+        " Value": "0.316830438"
+    },
+    {
+        "Company": "FCAU",
+        " Value": "0.314285714"
+    },
+    {
+        "Company": "CLR",
+        " Value": "0.312925286"
+    },
+    {
+        "Company": "BRKA",
+        " Value": "0.312173483"
+    },
+    {
+        "Company": "GPRO",
+        " Value": "0.308677897"
+    },
+    {
+        "Company": "BCS",
+        " Value": "0.304954222"
+    },
+    {
+        "Company": "DPZ",
+        " Value": "0.30357175"
+    },
+    {
+        "Company": "IBM",
+        " Value": "0.29752914"
+    },
+    {
+        "Company": "V",
+        " Value": "0.296317235"
+    },
+    {
+        "Company": "CHK",
+        " Value": "0.290436063"
+    },
+    {
+        "Company": "JBLU",
+        " Value": "0.286455423"
+    },
+    {
+        "Company": "GLD",
+        " Value": "0.282828333"
+    },
+    {
+        "Company": "MCD",
+        " Value": "0.281116442"
+    },
+    {
+        "Company": "IEP",
+        " Value": "0.280303"
+    },
+    {
+        "Company": "CRM",
+        " Value": "0.279569833"
+    },
+    {
+        "Company": "AAL",
+        " Value": "0.2774208"
+    },
+    {
+        "Company": "POM",
+        " Value": "0.2738095"
+    },
+    {
+        "Company": "COST",
+        " Value": "0.269696818"
+    },
+    {
+        "Company": "SPX",
+        " Value": "0.269360333"
+    },
+    {
+        "Company": "WAG",
+        " Value": "0.2690476"
+    },
+    {
+        "Company": "MA",
+        " Value": "0.26848492"
+    },
+    {
+        "Company": "GME",
+        " Value": "0.26841825"
+    },
+    {
+        "Company": "CLCD",
+        " Value": "0.268293"
+    },
+    {
+        "Company": "HRB",
+        " Value": "0.268293"
+    },
+    {
+        "Company": "JSOAX",
+        " Value": "0.268293"
+    },
+    {
+        "Company": "PEP",
+        " Value": "0.268060463"
+    },
+    {
+        "Company": "SYMC",
+        " Value": "0.2666666"
+    },
+    {
+        "Company": "VRX",
+        " Value": "0.261363625"
+    },
+    {
+        "Company": "DB",
+        " Value": "0.2606554"
+    },
+    {
+        "Company": "PSX",
+        " Value": "0.257885"
+    },
+    {
+        "Company": "AOL",
+        " Value": "0.254464375"
+    },
+    {
+        "Company": "AIG",
+        " Value": "0.2529032"
+    },
+    {
+        "Company": "LMT",
+        " Value": "0.252688167"
+    },
+    {
+        "Company": "BA",
+        " Value": "0.2514068"
+    },
+    {
+        "Company": "DD",
+        " Value": "0.2507656"
+    },
+    {
+        "Company": "AFRNF",
+        " Value": "0.25"
+    },
+    {
+        "Company": "CCE",
+        " Value": "0.25"
+    },
+    {
+        "Company": "LLDTF",
+        " Value": "0.25"
+    },
+    {
+        "Company": "ODP",
+        " Value": "0.25"
+    },
+    {
+        "Company": "RUBI",
+        " Value": "0.25"
+    },
+    {
+        "Company": "TRIP",
+        " Value": "0.25"
+    },
+    {
+        "Company": "ULTA",
+        " Value": "0.25"
+    },
+    {
+        "Company": "VITSX",
+        " Value": "0.25"
+    },
+    {
+        "Company": "VRTX",
+        " Value": "0.25"
+    },
+    {
+        "Company": "M",
+        " Value": "0.247340515"
+    },
+    {
+        "Company": "LNKD",
+        " Value": "0.240400955"
+    },
+    {
+        "Company": "BBRY",
+        " Value": "0.239117833"
+    },
+    {
+        "Company": "BLOX",
+        " Value": "0.238095333"
+    },
+    {
+        "Company": "PFE",
+        " Value": "0.2363636"
+    },
+    {
+        "Company": "AAMRQ",
+        " Value": "0.234255"
+    },
+    {
+        "Company": "QCOM",
+        " Value": "0.232812588"
+    },
+    {
+        "Company": "GCVRZ",
+        " Value": "0.222222333"
+    },
+    {
+        "Company": "KMI",
+        " Value": "0.222222222"
+    },
+    {
+        "Company": "SHLD",
+        " Value": "0.220612769"
+    },
+    {
+        "Company": "HSBC",
+        " Value": "0.216450182"
+    },
+    {
+        "Company": "TRLA",
+        " Value": "0.2142855"
+    },
+    {
+        "Company": "EXC",
+        " Value": "0.212842667"
+    },
+    {
+        "Company": "NYT",
+        " Value": "0.212121167"
+    },
+    {
+        "Company": "NWS",
+        " Value": "0.212121"
+    },
+    {
+        "Company": "CAT",
+        " Value": "0.208534333"
+    },
+    {
+        "Company": "EGFEF",
+        " Value": "0.208333375"
+    },
+    {
+        "Company": "MGM",
+        " Value": "0.208042857"
+    },
+    {
+        "Company": "RIG",
+        " Value": "0.206992583"
+    },
+    {
+        "Company": "URBN",
+        " Value": "0.2058825"
+    },
+    {
+        "Company": "ALU",
+        " Value": "0.2"
+    },
+    {
+        "Company": "MORN",
+        " Value": "0.2"
+    },
+    {
+        "Company": "NSRGY",
+        " Value": "0.2"
+    },
+    {
+        "Company": "UL",
+        " Value": "0.2"
+    },
+    {
+        "Company": "XBT",
+        " Value": "0.1875"
+    },
+    {
+        "Company": "HAL",
+        " Value": "0.183946855"
+    },
+    {
+        "Company": "GZPFY",
+        " Value": "0.182617714"
+    },
+    {
+        "Company": "HEINY",
+        " Value": "0.182539667"
+    },
+    {
+        "Company": "WSM",
+        " Value": "0.181818333"
+    },
+    {
+        "Company": "RBS",
+        " Value": "0.178571429"
+    },
+    {
+        "Company": "BP",
+        " Value": "0.178233208"
+    },
+    {
+        "Company": "AGN",
+        " Value": "0.172263167"
+    },
+    {
+        "Company": "GD",
+        " Value": "0.170731667"
+    },
+    {
+        "Company": "ABX",
+        " Value": "0.166667"
+    },
+    {
+        "Company": "AMOV",
+        " Value": "0.166667"
+    },
+    {
+        "Company": "LITB",
+        " Value": "0.166667"
+    },
+    {
+        "Company": "PVH",
+        " Value": "0.166667"
+    },
+    {
+        "Company": "VNQ",
+        " Value": "0.166667"
+    },
+    {
+        "Company": "WU",
+        " Value": "0.166666667"
+    },
+    {
+        "Company": "ANGI",
+        " Value": "0.1666665"
+    },
+    {
+        "Company": "FEYE",
+        " Value": "0.1666665"
+    },
+    {
+        "Company": "SLB",
+        " Value": "0.16233765"
+    },
+    {
+        "Company": "P",
+        " Value": "0.157473143"
+    },
+    {
+        "Company": "SFTBF",
+        " Value": "0.156565667"
+    },
+    {
+        "Company": "HMC",
+        " Value": "0.153732364"
+    },
+    {
+        "Company": "HNZ",
+        " Value": "0.1512345"
+    },
+    {
+        "Company": "TWX",
+        " Value": "0.1498185"
+    },
+    {
+        "Company": "VIA",
+        " Value": "0.149659857"
+    },
+    {
+        "Company": "JCP",
+        " Value": "0.1432761"
+    },
+    {
+        "Company": "BPIRY",
+        " Value": "0.142857143"
+    },
+    {
+        "Company": "CABGY",
+        " Value": "0.141380286"
+    },
+    {
+        "Company": "PBR",
+        " Value": "0.138146"
+    },
+    {
+        "Company": "MRK",
+        " Value": "0.13690475"
+    },
+    {
+        "Company": "VIAB",
+        " Value": "0.13611325"
+    },
+    {
+        "Company": "APC",
+        " Value": "0.134817571"
+    },
+    {
+        "Company": "Z",
+        " Value": "0.13451"
+    },
+    {
+        "Company": "FSLR",
+        " Value": "0.1330645"
+    },
+    {
+        "Company": "NBL",
+        " Value": "0.13095225"
+    },
+    {
+        "Company": "AA",
+        " Value": "0.125"
+    },
+    {
+        "Company": "ABT",
+        " Value": "0.125"
+    },
+    {
+        "Company": "UBS",
+        " Value": "0.121230125"
+    },
+    {
+        "Company": "HOT",
+        " Value": "0.1212122"
+    },
+    {
+        "Company": "GIS",
+        " Value": "0.1206975"
+    },
+    {
+        "Company": "BHI",
+        " Value": "0.118363343"
+    },
+    {
+        "Company": "EMC",
+        " Value": "0.114285714"
+    },
+    {
+        "Company": "CDE",
+        " Value": "0.111111333"
+    },
+    {
+        "Company": "LCC",
+        " Value": "0.103752429"
+    },
+    {
+        "Company": "GSK",
+        " Value": "0.100492375"
+    },
+    {
+        "Company": "UTX",
+        " Value": "0.098301769"
+    },
+    {
+        "Company": "ALBKF",
+        " Value": "0.098039235"
+    },
+    {
+        "Company": "RDSB",
+        " Value": "0.095238"
+    },
+    {
+        "Company": "BX",
+        " Value": "0.0916666"
+    },
+    {
+        "Company": "AGG",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "AMCX",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "ARMK",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "AVL",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "BBVA",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "DECK",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "DUK",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "FNF",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "FNGN",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "FRAK",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "GEIMX",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "GELYF",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "GXC",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "INVN",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "ITW",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "LEG",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "MCHI",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "MSNFY",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "NSRGF",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "NXPI",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "OIH",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "PGRE",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "RCL",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "SFTBY",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "SKX",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "SO",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "TCK",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "TESO",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "TUBE",
+        " Value": "0.090909"
+    },
+    {
+        "Company": "COKE",
+        " Value": "0.08870975"
+    },
+    {
+        "Company": "BOX",
+        " Value": "0.087301667"
+    },
+    {
+        "Company": "TOT",
+        " Value": "0.083333333"
+    },
+    {
+        "Company": "ZNGA",
+        " Value": "0.08333325"
+    },
+    {
+        "Company": "JOY",
+        " Value": "0.081439333"
+    },
+    {
+        "Company": "COP",
+        " Value": "0.081136255"
+    },
+    {
+        "Company": "HBC",
+        " Value": "0.0761904"
+    },
+    {
+        "Company": "RL",
+        " Value": "0.071987143"
+    },
+    {
+        "Company": "VIX",
+        " Value": "0.071412462"
+    },
+    {
+        "Company": "GLCNF",
+        " Value": "0.066666667"
+    },
+    {
+        "Company": "NVS",
+        " Value": "0.066666625"
+    },
+    {
+        "Company": "SAN",
+        " Value": "0.0615835"
+    },
+    {
+        "Company": "AAUKF",
+        " Value": "0.060606"
+    },
+    {
+        "Company": "SCCO",
+        " Value": "0.060606"
+    },
+    {
+        "Company": "TMICY",
+        " Value": "0.060606"
+    },
+    {
+        "Company": "SNDK",
+        " Value": "0.055555667"
+    },
+    {
+        "Company": "DO",
+        " Value": "0.054945091"
+    },
+    {
+        "Company": "BND",
+        " Value": "0.0545454"
+    },
+    {
+        "Company": "APA",
+        " Value": "0.0521885"
+    },
+    {
+        "Company": "FCX",
+        " Value": "0.0488636"
+    },
+    {
+        "Company": "AFL",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "ALXN",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "AVP",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "BCONQ",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "BFB",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "COSWF",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "DISCK",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "DLTR",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "DV",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "FDO",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "ICE",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "ILMN",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "LUX",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "SI",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "SVU",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "SWN",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "URI",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "WTSLQ",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "ESV",
+        " Value": "0.047619"
+    },
+    {
+        "Company": "BID",
+        " Value": "0.0458874"
+    },
+    {
+        "Company": "DDD",
+        " Value": "0.0454545"
+    },
+    {
+        "Company": "HRL",
+        " Value": "0.0454545"
+    },
+    {
+        "Company": "TLT",
+        " Value": "0.038961"
+    },
+    {
+        "Company": "DANOY",
+        " Value": "0.0363636"
+    },
+    {
+        "Company": "SWKS",
+        " Value": "0.0363636"
+    },
+    {
+        "Company": "BMLEX",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "CLF",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "COTY",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "CVI",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "DPUKY",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "FTR",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "HOG",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "RTNTF",
+        " Value": "0.032258"
+    },
+    {
+        "Company": "ACT",
+        " Value": "0.031746"
+    },
+    {
+        "Company": "AVGO",
+        " Value": "0.0306818"
+    },
+    {
+        "Company": "PNC",
+        " Value": "0.030303"
+    },
+    {
+        "Company": "UNCFF",
+        " Value": "0.0254992"
+    },
+    {
+        "Company": "AER",
+        " Value": "0.02439"
+    },
+    {
+        "Company": "CBI",
+        " Value": "0.02439"
+    },
+    {
+        "Company": "NEM",
+        " Value": "0.02439"
+    },
+    {
+        "Company": "LLY",
+        " Value": "0.0238095"
+    },
+    {
+        "Company": "RGC",
+        " Value": "0.0238095"
+    },
+    {
+        "Company": "SCGLY",
+        " Value": "0.0238095"
+    },
+    {
+        "Company": "TKTDY",
+        " Value": "0.0238095"
+    },
+    {
+        "Company": "GRPN",
+        " Value": "0.02272725"
+    },
+    {
+        "Company": "ALTR",
+        " Value": "0.020833333"
+    },
+    {
+        "Company": "TXN",
+        " Value": "0.020833333"
+    },
+    {
+        "Company": "THS",
+        " Value": "0.016393"
+    },
+    {
+        "Company": "CZR",
+        " Value": "0.016129"
+    },
+    {
+        "Company": "SCGLF",
+        " Value": "0.016129"
+    },
+    {
+        "Company": "AMC",
+        " Value": "0.015873"
+    },
+    {
+        "Company": "DNR",
+        " Value": "0.0144018"
+    },
+    {
+        "Company": "AZN",
+        " Value": "0.013072"
+    },
+    {
+        "Company": "BBL",
+        " Value": "0.012785167"
+    },
+    {
+        "Company": "SDRL",
+        " Value": "0.00939"
+    },
+    {
+        "Company": "NE",
+        " Value": "0.006410333"
+    },
+    {
+        "Company": "BPIRF",
+        " Value": "0.005226429"
+    },
+    {
+        "Company": "PTTAX",
+        " Value": "0.004902"
+    },
+    {
+        "Company": "ABBV",
+        " Value": "0"
+    },
+    {
+        "Company": "ACGBY",
+        " Value": "0"
+    },
+    {
+        "Company": "ACXM",
+        " Value": "0"
+    },
+    {
+        "Company": "AFLYY",
+        " Value": "0"
+    },
+    {
+        "Company": "AIDEF",
+        " Value": "0"
+    },
+    {
+        "Company": "AKAM",
+        " Value": "0"
+    },
+    {
+        "Company": "ALBKY",
+        " Value": "0"
+    },
+    {
+        "Company": "ALSMY",
+        " Value": "0"
+    },
+    {
+        "Company": "AMR",
+        " Value": "0"
+    },
+    {
+        "Company": "AMU",
+        " Value": "0"
+    },
+    {
+        "Company": "ANFGF",
+        " Value": "0"
+    },
+    {
+        "Company": "AOK",
+        " Value": "0"
+    },
+    {
+        "Company": "APU",
+        " Value": "0"
+    },
+    {
+        "Company": "BAESF",
+        " Value": "0"
+    },
+    {
+        "Company": "BCBAY",
+        " Value": "0"
+    },
+    {
+        "Company": "BCDRF",
+        " Value": "0"
+    },
+    {
+        "Company": "BCLYF",
+        " Value": "0"
+    },
+    {
+        "Company": "BEAM",
+        " Value": "0"
+    },
+    {
+        "Company": "BEN",
+        " Value": "0"
+    },
+    {
+        "Company": "BIOC",
+        " Value": "0"
+    },
+    {
+        "Company": "BNPQF",
+        " Value": "0"
+    },
+    {
+        "Company": "BRCM",
+        " Value": "0"
+    },
+    {
+        "Company": "BTSDF",
+        " Value": "0"
+    },
+    {
+        "Company": "CA",
+        " Value": "0"
+    },
+    {
+        "Company": "CACC",
+        " Value": "0"
+    },
+    {
+        "Company": "CAG",
+        " Value": "0"
+    },
+    {
+        "Company": "CAH",
+        " Value": "0"
+    },
+    {
+        "Company": "CALM",
+        " Value": "0"
+    },
+    {
+        "Company": "CFR",
+        " Value": "0"
+    },
+    {
+        "Company": "CLB",
+        " Value": "0"
+    },
+    {
+        "Company": "CNX",
+        " Value": "0"
+    },
+    {
+        "Company": "COF",
+        " Value": "0"
+    },
+    {
+        "Company": "CQB",
+        " Value": "0"
+    },
+    {
+        "Company": "CRARF",
+        " Value": "0"
+    },
+    {
+        "Company": "CRARY",
+        " Value": "0"
+    },
+    {
+        "Company": "CRUS",
+        " Value": "0"
+    },
+    {
+        "Company": "CSH",
+        " Value": "0"
+    },
+    {
+        "Company": "CST",
+        " Value": "0"
+    },
+    {
+        "Company": "CSTR",
+        " Value": "0"
+    },
+    {
+        "Company": "CTXS",
+        " Value": "0"
+    },
+    {
+        "Company": "CVEO",
+        " Value": "0"
+    },
+    {
+        "Company": "CXW",
+        " Value": "0"
+    },
+    {
+        "Company": "CYBR",
+        " Value": "0"
+    },
+    {
+        "Company": "DAX",
+        " Value": "0"
+    },
+    {
+        "Company": "DBLFX",
+        " Value": "0"
+    },
+    {
+        "Company": "DELL",
+        " Value": "0"
+    },
+    {
+        "Company": "DEO",
+        " Value": "0"
+    },
+    {
+        "Company": "DLIA",
+        " Value": "0"
+    },
+    {
+        "Company": "DOLE",
+        " Value": "0"
+    },
+    {
+        "Company": "DPS",
+        " Value": "0"
+    },
+    {
+        "Company": "DRI",
+        " Value": "0"
+    },
+    {
+        "Company": "DVY",
+        " Value": "0"
+    },
+    {
+        "Company": "EMQQ",
+        " Value": "0"
+    },
+    {
+        "Company": "ENLAY",
+        " Value": "0"
+    },
+    {
+        "Company": "EONGY",
+        " Value": "0"
+    },
+    {
+        "Company": "EPD",
+        " Value": "0"
+    },
+    {
+        "Company": "ETP",
+        " Value": "0"
+    },
+    {
+        "Company": "EWI",
+        " Value": "0"
+    },
+    {
+        "Company": "EXPD",
+        " Value": "0"
+    },
+    {
+        "Company": "EZPW",
+        " Value": "0"
+    },
+    {
+        "Company": "FIATY",
+        " Value": "0"
+    },
+    {
+        "Company": "FONE",
+        " Value": "0"
+    },
+    {
+        "Company": "FOVSY",
+        " Value": "0"
+    },
+    {
+        "Company": "GEO",
+        " Value": "0"
+    },
+    {
+        "Company": "GES",
+        " Value": "0"
+    },
+    {
+        "Company": "GLAXF",
+        " Value": "0"
+    },
+    {
+        "Company": "GLMD",
+        " Value": "0"
+    },
+    {
+        "Company": "GPMCF",
+        " Value": "0"
+    },
+    {
+        "Company": "GTAT",
+        " Value": "0"
+    },
+    {
+        "Company": "HACK",
+        " Value": "0"
+    },
+    {
+        "Company": "HAR",
+        " Value": "0"
+    },
+    {
+        "Company": "HAS",
+        " Value": "0"
+    },
+    {
+        "Company": "HL",
+        " Value": "0"
+    },
+    {
+        "Company": "HNGSF",
+        " Value": "0"
+    },
+    {
+        "Company": "HUSKF",
+        " Value": "0"
+    },
+    {
+        "Company": "I",
+        " Value": "0"
+    },
+    {
+        "Company": "IACI",
+        " Value": "0"
+    },
+    {
+        "Company": "IAPLF",
+        " Value": "0"
+    },
+    {
+        "Company": "IBKR",
+        " Value": "0"
+    },
+    {
+        "Company": "IDG",
+        " Value": "0"
+    },
+    {
+        "Company": "IM",
+        " Value": "0"
+    },
+    {
+        "Company": "IMPV",
+        " Value": "0"
+    },
+    {
+        "Company": "INDU",
+        " Value": "0"
+    },
+    {
+        "Company": "JAH",
+        " Value": "0"
+    },
+    {
+        "Company": "JBL",
+        " Value": "0"
+    },
+    {
+        "Company": "JNPR",
+        " Value": "0"
+    },
+    {
+        "Company": "JNS",
+        " Value": "0"
+    },
+    {
+        "Company": "JPGE",
+        " Value": "0"
+    },
+    {
+        "Company": "KKR",
+        " Value": "0"
+    },
+    {
+        "Company": "KMB",
+        " Value": "0"
+    },
+    {
+        "Company": "KMX",
+        " Value": "0"
+    },
+    {
+        "Company": "LBTYA",
+        " Value": "0"
+    },
+    {
+        "Company": "LE",
+        " Value": "0"
+    },
+    {
+        "Company": "LINE",
+        " Value": "0"
+    },
+    {
+        "Company": "LM",
+        " Value": "0"
+    },
+    {
+        "Company": "LO",
+        " Value": "0"
+    },
+    {
+        "Company": "LOCO",
+        " Value": "0"
+    },
+    {
+        "Company": "MCO",
+        " Value": "0"
+    },
+    {
+        "Company": "MMP",
+        " Value": "0"
+    },
+    {
+        "Company": "MPO",
+        " Value": "0"
+    },
+    {
+        "Company": "MRO",
+        " Value": "0"
+    },
+    {
+        "Company": "N225",
+        " Value": "0"
+    },
+    {
+        "Company": "NBG",
+        " Value": "0"
+    },
+    {
+        "Company": "NBR",
+        " Value": "0"
+    },
+    {
+        "Company": "NDLS",
+        " Value": "0"
+    },
+    {
+        "Company": "NFX",
+        " Value": "0"
+    },
+    {
+        "Company": "NTDOF",
+        " Value": "0"
+    },
+    {
+        "Company": "NVGS",
+        " Value": "0"
+    },
+    {
+        "Company": "NWL",
+        " Value": "0"
+    },
+    {
+        "Company": "OGZPY",
+        " Value": "0"
+    },
+    {
+        "Company": "PBPB",
+        " Value": "0"
+    },
+    {
+        "Company": "PBRA",
+        " Value": "0"
+    },
+    {
+        "Company": "PBY",
+        " Value": "0"
+    },
+    {
+        "Company": "PCCYF",
+        " Value": "0"
+    },
+    {
+        "Company": "PCRFF",
+        " Value": "0"
+    },
+    {
+        "Company": "PDS",
+        " Value": "0"
+    },
+    {
+        "Company": "PHG",
+        " Value": "0"
+    },
+    {
+        "Company": "PM",
+        " Value": "0"
+    },
+    {
+        "Company": "PMBIX",
+        " Value": "0"
+    },
+    {
+        "Company": "PPC",
+        " Value": "0"
+    },
+    {
+        "Company": "PTEN",
+        " Value": "0"
+    },
+    {
+        "Company": "PXD",
+        " Value": "0"
+    },
+    {
+        "Company": "QEP",
+        " Value": "0"
+    },
+    {
+        "Company": "QLYS",
+        " Value": "0"
+    },
+    {
+        "Company": "QRVO",
+        " Value": "0"
+    },
+    {
+        "Company": "QURE",
+        " Value": "0"
+    },
+    {
+        "Company": "RAI",
+        " Value": "0"
+    },
+    {
+        "Company": "REGN",
+        " Value": "0"
+    },
+    {
+        "Company": "REN",
+        " Value": "0"
+    },
+    {
+        "Company": "RENX",
+        " Value": "0"
+    },
+    {
+        "Company": "RFMD",
+        " Value": "0"
+    },
+    {
+        "Company": "RNSDF",
+        " Value": "0"
+    },
+    {
+        "Company": "RSP",
+        " Value": "0"
+    },
+    {
+        "Company": "RSQIX",
+        " Value": "0"
+    },
+    {
+        "Company": "RWEOY",
+        " Value": "0"
+    },
+    {
+        "Company": "SAFM",
+        " Value": "0"
+    },
+    {
+        "Company": "SBRCY",
+        " Value": "0"
+    },
+    {
+        "Company": "SD",
+        " Value": "0"
+    },
+    {
+        "Company": "SDLP",
+        " Value": "0"
+    },
+    {
+        "Company": "SEARF",
+        " Value": "0"
+    },
+    {
+        "Company": "SEAS",
+        " Value": "0"
+    },
+    {
+        "Company": "SEB",
+        " Value": "0"
+    },
+    {
+        "Company": "SIX",
+        " Value": "0"
+    },
+    {
+        "Company": "SLW",
+        " Value": "0"
+    },
+    {
+        "Company": "SNMRY",
+        " Value": "0"
+    },
+    {
+        "Company": "SOCL",
+        " Value": "0"
+    },
+    {
+        "Company": "SOHU",
+        " Value": "0"
+    },
+    {
+        "Company": "SOX",
+        " Value": "0"
+    },
+    {
+        "Company": "STM",
+        " Value": "0"
+    },
+    {
+        "Company": "STPFQ",
+        " Value": "0"
+    },
+    {
+        "Company": "TD",
+        " Value": "0"
+    },
+    {
+        "Company": "TEA",
+        " Value": "0"
+    },
+    {
+        "Company": "TEZNY",
+        " Value": "0"
+    },
+    {
+        "Company": "TOSYY",
+        " Value": "0"
+    },
+    {
+        "Company": "TQNT",
+        " Value": "0"
+    },
+    {
+        "Company": "TRP",
+        " Value": "0"
+    },
+    {
+        "Company": "TRW",
+        " Value": "0"
+    },
+    {
+        "Company": "TSCDY",
+        " Value": "0"
+    },
+    {
+        "Company": "TSN",
+        " Value": "0"
+    },
+    {
+        "Company": "UIS",
+        " Value": "0"
+    },
+    {
+        "Company": "UKX",
+        " Value": "0"
+    },
+    {
+        "Company": "VALE",
+        " Value": "0"
+    },
+    {
+        "Company": "VDSI",
+        " Value": "0"
+    },
+    {
+        "Company": "VOLVY",
+        " Value": "0"
+    },
+    {
+        "Company": "VPMAX",
+        " Value": "0"
+    },
+    {
+        "Company": "VTSMX",
+        " Value": "0"
+    },
+    {
+        "Company": "WFT",
+        " Value": "0"
+    },
+    {
+        "Company": "WMB",
+        " Value": "0"
+    },
+    {
+        "Company": "WPPGF",
+        " Value": "0"
+    },
+    {
+        "Company": "WPZ",
+        " Value": "0"
+    },
+    {
+        "Company": "WSO",
+        " Value": "0"
+    },
+    {
+        "Company": "WTSL",
+        " Value": "0"
+    },
+    {
+        "Company": "X",
+        " Value": "0"
+    },
+    {
+        "Company": "XCO",
+        " Value": "0"
+    },
+    {
+        "Company": "XRT",
+        " Value": "0"
+    },
+    {
+        "Company": "YOKU",
+        " Value": "0"
+    },
+    {
+        "Company": ""
+    }
+]

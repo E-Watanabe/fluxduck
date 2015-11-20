@@ -1,5 +1,5 @@
-const AWS_ACCESS_KEY_ID = 'AKIAIEY2BTCM3MDCT4JA';
-const AWS_SECRET_ACCESS_KEY = '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';
+const AWS_ACCESS_KEY_ID = '###################';
+const AWS_SECRET_ACCESS_KEY = '##################################';
 const AWS_REGION = 'us-east-1';
 
 
